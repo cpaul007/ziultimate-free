@@ -54,6 +54,11 @@ class RegisterElements {
 	public static function get_elements() {
 		$link = 'https://ziultimate.com/doc';
 		$elements = [
+			'burger' => [
+				'name' 	=> __('Animated Burger', 'ziultimate'),
+				'class' => 'AnimatedBurger\AnimatedBurger',
+				'link' 	=> $link . '/animated-burger/'
+			],
 			'animheading' => [
 				'name' 	=> __('Animated Heading', 'ziultimate'),
 				'class' => 'AnimatedHeading\AnimatedHeading',
