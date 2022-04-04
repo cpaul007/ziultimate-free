@@ -17,7 +17,7 @@ if ( ! class_exists( 'ZU_Plugin_Updater' ) ) {
 class License {
 
 	const STORE_URL 			= 'https://ziultimate.com';
-	const ITEM_ID 				= '128';
+	const ITEM_ID 				= '1493';
 	const API_KEY_FIELD 		= 'ziultimate_license_key';
 	const API_DETAILS_FIELD 	= 'ziultimate_license_details';
 	const API_KEY_STATUS_FIELD 	= 'ziultimate_license_status';
