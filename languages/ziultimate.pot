@@ -1,0 +1,5172 @@
+# Copyright (C) 2022 unnamed project
+# This file is distributed under the same license as the unnamed project package.
+msgid ""
+msgstr ""
+"Project-Id-Version: unnamed project\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: undefined\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/Helpers.php:156
+msgid "Toggle Content Options"
+msgstr ""
+
+#: ../includes/Helpers.php:165
+msgid "Enable accordion effect?"
+msgstr ""
+
+#: ../includes/Helpers.php:170, ../includes/Helpers.php:189, ../includes/Conditions/Post.php:33, ../includes/Conditions/Post.php:67, ../includes/Conditions/WooCommerce.php:62, ../includes/Conditions/WooCommerce.php:273, ../includes/Conditions/WooCommerce.php:349, ../includes/DynamicContent/Fields/LoopCounter.php:68, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:564, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:584, ../includes/Elements/DynamicTabs/DynamicTabs.php:336, ../includes/Elements/GravityForm/GravityForm.php:259, ../includes/Elements/HighlightedHeading/HighlightedHeading.php:211, ../includes/Elements/Lightbox/Lightbox.php:141, ../includes/Elements/Lightbox/Lightbox.php:736, ../includes/Elements/OffCanvas/OffCanvas.php:80, ../includes/Elements/TableOfContents/TableOfContents.php:259, ../includes/Elements/TableOfContents/TableOfContents.php:536, ../includes/Elements/ToggleContent/Title.php:58, ../includes/Repeater/Providers/WCBestSellingProducts.php:154, ../includes/Repeater/Providers/WCBestSellingProducts.php:173, ../includes/Repeater/Providers/WCBestSellingProducts.php:192, ../includes/Repeater/Providers/WCFeaturedProducts.php:112, ../includes/Repeater/Providers/WCFeaturedProducts.php:131, ../includes/Repeater/Providers/WCFeaturedProducts.php:150, ../includes/Repeater/Providers/WCOnSaleProducts.php:110, ../includes/Repeater/Providers/WCOnSaleProducts.php:129, ../includes/Repeater/Providers/WCOnSaleProducts.php:148, ../includes/Repeater/Providers/WCRecentlyViewed.php:104, ../includes/WooElements/BuyNow/BuyNow.php:168, ../includes/WooElements/BuyNow/BuyNow.php:187, ../includes/WooElements/CartCounter/CartCounter.php:77, ../includes/WooElements/CartCounter/CartCounter.php:455, ../includes/WooElements/CartCounter/CartCounter.php:660, ../includes/WooElements/CartCounter/CartCounter.php:825, ../includes/WooElements/CartCounter/CartCounter.php:844, ../includes/WooElements/CartCounter/CartCounter.php:1115, ../includes/WooElements/MiniCart/MiniCart.php:68, ../includes/WooElements/MiniCart/MiniCart.php:154, ../includes/WooElements/MiniCart/MiniCart.php:239, ../includes/WooElements/MiniCart/MiniCart.php:627
+msgid "No"
+msgstr ""
+
+#: ../includes/Helpers.php:174, ../includes/Helpers.php:193, ../includes/Conditions/Post.php:29, ../includes/Conditions/Post.php:63, ../includes/Conditions/WooCommerce.php:58, ../includes/Conditions/WooCommerce.php:269, ../includes/Conditions/WooCommerce.php:345, ../includes/DynamicContent/Fields/LoopCounter.php:64, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:560, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:580, ../includes/Elements/DynamicTabs/DynamicTabs.php:332, ../includes/Elements/GravityForm/GravityForm.php:255, ../includes/Elements/HighlightedHeading/HighlightedHeading.php:207, ../includes/Elements/Lightbox/Lightbox.php:137, ../includes/Elements/Lightbox/Lightbox.php:318, ../includes/Elements/Lightbox/Lightbox.php:732, ../includes/Elements/OffCanvas/OffCanvas.php:84, ../includes/Elements/TableOfContents/TableOfContents.php:255, ../includes/Elements/TableOfContents/TableOfContents.php:532, ../includes/Elements/ToggleContent/Title.php:54, ../includes/Repeater/Providers/WCBestSellingProducts.php:150, ../includes/Repeater/Providers/WCBestSellingProducts.php:169, ../includes/Repeater/Providers/WCBestSellingProducts.php:188, ../includes/Repeater/Providers/WCFeaturedProducts.php:108, ../includes/Repeater/Providers/WCFeaturedProducts.php:127, ../includes/Repeater/Providers/WCFeaturedProducts.php:146, ../includes/Repeater/Providers/WCOnSaleProducts.php:106, ../includes/Repeater/Providers/WCOnSaleProducts.php:125, ../includes/Repeater/Providers/WCOnSaleProducts.php:144, ../includes/Repeater/Providers/WCRecentlyViewed.php:100, ../includes/WooElements/BuyNow/BuyNow.php:172, ../includes/WooElements/BuyNow/BuyNow.php:191, ../includes/WooElements/CartCounter/CartCounter.php:81, ../includes/WooElements/CartCounter/CartCounter.php:459, ../includes/WooElements/CartCounter/CartCounter.php:664, ../includes/WooElements/CartCounter/CartCounter.php:829, ../includes/WooElements/CartCounter/CartCounter.php:848, ../includes/WooElements/CartCounter/CartCounter.php:1119, ../includes/WooElements/MiniCart/MiniCart.php:72, ../includes/WooElements/MiniCart/MiniCart.php:158, ../includes/WooElements/MiniCart/MiniCart.php:235, ../includes/WooElements/MiniCart/MiniCart.php:631
+msgid "Yes"
+msgstr ""
+
+#: ../includes/Helpers.php:184
+msgid "First item active by default?"
+msgstr ""
+
+#: ../includes/RegisterElements.php:20, ../includes/RegisterWooElements.php:16, ../includes/Admin/AdminMenuBar.php:25
+msgid "ZiUltimate"
+msgstr ""
+
+#: ../includes/RegisterElements.php:34, ../includes/RegisterElements.php:188, ../includes/Elements/ToggleContent/Content.php:24
+msgid "Toggle Content"
+msgstr ""
+
+#: ../includes/RegisterElements.php:68, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:25
+msgid "Animated Burger"
+msgstr ""
+
+#: ../includes/RegisterElements.php:73, ../includes/Elements/AnimatedHeading/AnimatedHeading.php:25
+msgid "Animated Heading"
+msgstr ""
+
+#: ../includes/RegisterElements.php:78, ../includes/Elements/AccordionMenu/AccordionMenu.php:28
+msgid "Accordion Menu"
+msgstr ""
+
+#: ../includes/RegisterElements.php:83, ../includes/Elements/BackToTop/BackToTop.php:25
+msgid "Back To Top"
+msgstr ""
+
+#: ../includes/RegisterElements.php:88, ../includes/Elements/Breadcrumbs/Breadcrumbs.php:26
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../includes/RegisterElements.php:93, ../includes/Elements/ContactForm7/ContactForm7.php:27
+msgid "Contact Form 7 Styler"
+msgstr ""
+
+#: ../includes/RegisterElements.php:98, ../includes/Elements/DynamicTabs/DynamicTabs.php:40
+msgid "Dynamic Tabs"
+msgstr ""
+
+#: ../includes/RegisterElements.php:103, ../includes/Elements/FluentForm/FluentForm.php:26
+msgid "Fluent Form Styler"
+msgstr ""
+
+#: ../includes/RegisterElements.php:108, ../includes/Elements/GravityForm/GravityForm.php:26
+msgid "Gravity Form Styler"
+msgstr ""
+
+#: ../includes/RegisterElements.php:113, ../includes/Elements/GallerySlider/GallerySlider.php:73
+msgid "Gallery Slider"
+msgstr ""
+
+#: ../includes/RegisterElements.php:118, ../includes/Elements/HighlightedHeading/HighlightedHeading.php:25
+msgid "Highlighted Heading"
+msgstr ""
+
+#: ../includes/RegisterElements.php:123, ../includes/Elements/ImageComparison/ImageComparison.php:25
+msgid "Image Comparison"
+msgstr ""
+
+#: ../includes/RegisterElements.php:128, ../includes/Elements/ImageMask/ImageMask.php:27
+msgid "Image Mask"
+msgstr ""
+
+#: ../includes/RegisterElements.php:133, ../includes/Elements/ImageScroller/ImageScroller.php:27
+msgid "Image Scroller"
+msgstr ""
+
+#: ../includes/RegisterElements.php:138, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:27
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../includes/RegisterElements.php:143, ../includes/Elements/Lightbox/Lightbox.php:27
+msgid "Lightbox"
+msgstr ""
+
+#: ../includes/RegisterElements.php:153, ../includes/Elements/OffCanvas/OffCanvas.php:28
+msgid "Off Canvas"
+msgstr ""
+
+#: ../includes/RegisterElements.php:158, ../includes/Elements/PiotnetForm/PiotnetForm.php:26
+msgid "Piotnet Forms Styler"
+msgstr ""
+
+#: ../includes/RegisterElements.php:163, ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:24, ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:211
+msgid "Reading Progress Bar"
+msgstr ""
+
+#: ../includes/RegisterElements.php:168, ../includes/Elements/ReadingTime/ReadingTime.php:24, ../includes/Elements/ReadingTime/ReadingTime.php:162
+msgid "Reading Time"
+msgstr ""
+
+#: ../includes/RegisterElements.php:173
+msgid "Read More / Less"
+msgstr ""
+
+#: ../includes/RegisterElements.php:178, ../includes/Elements/SlidingMenu/SlidingMenu.php:28
+msgid "Sliding Menu"
+msgstr ""
+
+#: ../includes/RegisterElements.php:183
+msgid "Table Of Contents"
+msgstr ""
+
+#: ../includes/RegisterElements.php:193, ../includes/Elements/WPForms/WPForms.php:26
+msgid "WPForms Styler"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:25
+msgid "Woo"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:29
+msgid "Cart Page Builder"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:60, ../includes/WooElements/AddToCart/AddToCart.php:31
+msgid "Add To Cart"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:65, ../includes/WooElements/BuyNow/BuyNow.php:26, ../includes/WooElements/BuyNow/BuyNow.php:69, ../includes/WooElements/BuyNow/BuyNow.php:565
+msgid "Buy Now"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:70, ../includes/WooElements/CartCounter/CartCounter.php:27, ../includes/WooElements/CartCounter/CartCounter.php:443
+msgid "Cart Counter"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:80, ../includes/WooElements/ContinueShopping/ContinueShopping.php:26
+msgid "Continue Shopping"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:85, ../includes/WooElements/EmptyCart/EmptyCart.php:26, ../includes/WooElements/EmptyCart/EmptyCart.php:69
+msgid "Empty Cart"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:90, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:28
+msgid "Free Shipping Notice"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:95, ../includes/WooElements/MiniCart/MiniCart.php:27
+msgid "Mini Cart"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:100
+msgid "Product Tabs in Accordion"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:105, ../includes/WooElements/RatingsGraph/RatingsGraph.php:25
+msgid "Rating Graph"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:110, ../includes/WooElements/ReviewRatings/ReviewRatings.php:25
+msgid "Reviews Rating"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:115
+msgid "Sale Offer"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:120, ../includes/WooElements/YithCompare/YithCompare.php:29
+msgid "Yith Compare"
+msgstr ""
+
+#: ../includes/RegisterWooElements.php:125
+msgid "Yith Wishlist"
+msgstr ""
+
+#: ../includes/Requirements.php:91
+msgid "Please contact an administrator to install the Zion Page Builder plugin"
+msgstr ""
+
+#: ../includes/Requirements.php:89
+msgid "Install Zion Builder"
+msgstr ""
+
+#: ../includes/Requirements.php:94
+msgid "ZiUltimate was not activated because it requires the Zion Page Builder plugin."
+msgstr ""
+
+#: ../includes/Requirements.php:75
+msgid "ZiUltimate is not working because it requires the Zion builder plugin to be installed and active."
+msgstr ""
+
+#: ../includes/Requirements.php:78
+msgid "Activate Zion Builder"
+msgstr ""
+
+#: ../includes/Requirements.php:117
+msgid "ZiUltimate was not actived because you are using an outdated version of Zion Builder"
+msgstr ""
+
+#: ../includes/Requirements.php:118
+msgid "Update Zion Builder"
+msgstr ""
+
+#: ../includes/UltimateElements.php:43
+msgid "Padding Top"
+msgstr ""
+
+#: ../includes/UltimateElements.php:64, ../includes/Elements/GravityForm/GravityForm.php:602, ../includes/WooElements/CartCounter/CartCounter.php:696
+msgid "Padding Right"
+msgstr ""
+
+#: ../includes/UltimateElements.php:85
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../includes/UltimateElements.php:106, ../includes/WooElements/CartCounter/CartCounter.php:734
+msgid "Padding Left"
+msgstr ""
+
+#: ../includes/UltimateElements.php:129, ../includes/Elements/GallerySlider/GallerySlider.php:447, ../includes/Elements/ToggleContent/Content.php:187
+msgid "Margin Top"
+msgstr ""
+
+#: ../includes/UltimateElements.php:150, ../includes/WooElements/YithCompare/YithCompare.php:380
+msgid "Margin Right"
+msgstr ""
+
+#: ../includes/UltimateElements.php:171, ../includes/Elements/FluentForm/FluentForm.php:1306, ../includes/Elements/ToggleContent/Content.php:205
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../includes/UltimateElements.php:192, ../includes/WooElements/YithCompare/YithCompare.php:364
+msgid "Margin Left"
+msgstr ""
+
+#: ../includes/UltimateElements.php:213, ../includes/Elements/Breadcrumbs/Breadcrumbs.php:107, ../includes/Elements/GallerySlider/single-image.php:31
+msgid "Align"
+msgstr ""
+
+#: ../includes/UltimateElements.php:214
+msgid "Select the desired text align."
+msgstr ""
+
+#: ../includes/UltimateElements.php:229
+msgid "Font Family"
+msgstr ""
+
+#: ../includes/UltimateElements.php:248
+msgid "Font Weight"
+msgstr ""
+
+#: ../includes/UltimateElements.php:249
+msgid "Font weight allows you to set the text thickness."
+msgstr ""
+
+#: ../includes/UltimateElements.php:292
+msgid "Bolder"
+msgstr ""
+
+#: ../includes/UltimateElements.php:296
+msgid "Lighter"
+msgstr ""
+
+#: ../includes/UltimateElements.php:300
+msgid "Inherit"
+msgstr ""
+
+#: ../includes/UltimateElements.php:304
+msgid "Initial"
+msgstr ""
+
+#: ../includes/UltimateElements.php:308
+msgid "Unset"
+msgstr ""
+
+#: ../includes/UltimateElements.php:325
+msgid "Font Color"
+msgstr ""
+
+#: ../includes/UltimateElements.php:342, ../includes/Elements/Breadcrumbs/Breadcrumbs.php:93, ../includes/WooElements/BuyNow/BuyNow.php:334, ../includes/WooElements/ContinueShopping/ContinueShopping.php:199, ../includes/WooElements/EmptyCart/EmptyCart.php:253, ../includes/WooElements/YithCompare/YithCompare.php:239
+msgid "Font size"
+msgstr ""
+
+#: ../includes/UltimateElements.php:343, ../includes/Elements/Breadcrumbs/Breadcrumbs.php:94, ../includes/WooElements/BuyNow/BuyNow.php:335, ../includes/WooElements/ContinueShopping/ContinueShopping.php:200, ../includes/WooElements/EmptyCart/EmptyCart.php:254, ../includes/WooElements/YithCompare/YithCompare.php:240
+msgid "The font size option sets the size of the font in various units"
+msgstr ""
+
+#: ../includes/UltimateElements.php:363
+msgid "Line height"
+msgstr ""
+
+#: ../includes/UltimateElements.php:364
+msgid "Line height sets the distance between lines of text."
+msgstr ""
+
+#: ../includes/UltimateElements.php:383
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../includes/UltimateElements.php:384
+msgid "Letter spacings sets the width between letters."
+msgstr ""
+
+#: ../includes/UltimateElements.php:402
+msgid "Text Decoration"
+msgstr ""
+
+#: ../includes/UltimateElements.php:436, ../includes/WooElements/BuyNow/BuyNow.php:348, ../includes/WooElements/ContinueShopping/ContinueShopping.php:213, ../includes/WooElements/EmptyCart/EmptyCart.php:267, ../includes/WooElements/YithCompare/YithCompare.php:253
+msgid "Text Transform"
+msgstr ""
+
+#: ../includes/UltimateElements.php:443, ../includes/WooElements/BuyNow/BuyNow.php:355, ../includes/WooElements/ContinueShopping/ContinueShopping.php:220, ../includes/WooElements/EmptyCart/EmptyCart.php:274, ../includes/WooElements/YithCompare/YithCompare.php:260
+msgid "uppercase"
+msgstr ""
+
+#: ../includes/UltimateElements.php:448, ../includes/WooElements/BuyNow/BuyNow.php:360, ../includes/WooElements/ContinueShopping/ContinueShopping.php:225, ../includes/WooElements/EmptyCart/EmptyCart.php:279, ../includes/WooElements/YithCompare/YithCompare.php:265
+msgid "lowercase"
+msgstr ""
+
+#: ../includes/UltimateElements.php:453, ../includes/WooElements/BuyNow/BuyNow.php:365, ../includes/WooElements/ContinueShopping/ContinueShopping.php:230, ../includes/WooElements/EmptyCart/EmptyCart.php:284, ../includes/WooElements/YithCompare/YithCompare.php:270
+msgid "capitalize"
+msgstr ""
+
+#: ../includes/UltimateElements.php:482
+msgid "Click here to activate you license"
+msgstr ""
+
+#: ../includes/UltimateElements.php:485
+msgid "Purchase Now"
+msgstr ""
+
+#: ../includes/UltimateElements.php:498, ../includes/UltimateElements.php:532, ../includes/UltimateElements.php:559, ../includes/Elements/ContactForm7/ContactForm7.php:207, ../includes/Elements/FluentForm/FluentForm.php:1930, ../includes/Elements/GravityForm/GravityForm.php:667, ../includes/Elements/PiotnetForm/PiotnetForm.php:256, ../includes/Elements/PiotnetForm/PiotnetForm.php:340, ../includes/Elements/WPForms/WPForms.php:1203, ../includes/Elements/WPForms/WPForms.php:1221
+msgid "Select a form"
+msgstr ""
+
+#: ../includes/UltimateElements.php:521, ../includes/UltimateElements.php:548, ../includes/UltimateElements.php:574, ../includes/Elements/PiotnetForm/PiotnetForm.php:279
+msgid "No forms found!"
+msgstr ""
+
+#: ../includes/UltimateElements.php:586, ../includes/Elements/AccordionMenu/AccordionMenu.php:1020, ../includes/Elements/SlidingMenu/SlidingMenu.php:1246
+msgid "Select Menu"
+msgstr ""
+
+#: ../includes/UltimateElements.php:602
+msgid "No Menus Found"
+msgstr ""
+
+#: ../includes/UltimateElements.php:611
+msgid "Category"
+msgstr ""
+
+#: ../includes/UltimateElements.php:652, ../includes/DynamicContent/Fields/TermImage.php:70
+msgid "Full"
+msgstr ""
+
+#: ../includes/WooHelpers.php:306
+msgid "Failed. Something went wrong"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:69, ../includes/Admin/Admin.php:280, ../includes/Admin/AdminMenuBar.php:45
+msgid "General Elements"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:73, ../includes/Admin/AdminMenuBar.php:55
+msgid "Woo Elements"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:78, ../includes/Admin/Admin.php:461
+msgid "White Label"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:82
+msgid "License"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:139
+msgid "Selected elements have been activated successfully."
+msgstr ""
+
+#: ../includes/Admin/Admin.php:152
+msgid "WooCommerce Elements"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:154, ../includes/Admin/Admin.php:282
+msgid "Only active elements will show and use on the Zion Builder"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:159, ../includes/Admin/Admin.php:287
+msgid "%s element"
+msgid_plural "%s elements"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/Admin/Admin.php:170, ../includes/Admin/Admin.php:186, ../includes/Admin/Admin.php:297, ../includes/Admin/Admin.php:313
+msgid "Activate All"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:174, ../includes/Admin/Admin.php:190, ../includes/Admin/Admin.php:301, ../includes/Admin/Admin.php:317
+msgid "Enable All"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:176, ../includes/Admin/Admin.php:303
+msgid "Documentation"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:203, ../includes/Admin/Admin.php:330
+msgid "items"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:266, ../includes/Admin/Admin.php:420
+msgid "Settings saved successfully."
+msgstr ""
+
+#: ../includes/Admin/Admin.php:379
+msgid "License Settings"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:386
+msgid "License Key"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:388
+msgid "active"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:392
+msgid "Enter your license key"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:396
+msgid "Activate License"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:394
+msgid "Deactivate License"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:469
+msgid "Plugin Name"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:478
+msgid "Plugin URI"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:487
+msgid "Author Name"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:496
+msgid "Author URI"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:505
+msgid "Plugin Description"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:514
+msgid "Admin Menu Name"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:522
+msgid "Admin Menu Link Slug"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:530
+msgid "Permission"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:531
+msgid "who can access this page"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:562, ../includes/Admin/Admin.php:618
+msgid "Read Doc"
+msgstr ""
+
+#: ../includes/Admin/Admin.php:636
+msgid "Settings"
+msgstr ""
+
+#: ../includes/Admin/License.php:100, ../includes/Admin/License.php:170, ../includes/Admin/License.php:133, ../includes/Admin/License.php:231
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../includes/Admin/License.php:107, ../includes/Admin/License.php:153
+msgid "Invalid license."
+msgstr ""
+
+#: ../includes/Admin/License.php:142
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../includes/Admin/License.php:149
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../includes/Admin/License.php:158
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../includes/Admin/License.php:162
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../includes/Admin/License.php:166
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../includes/Admin/License.php:192
+msgid "Your license key is activated successfully."
+msgstr ""
+
+#: ../includes/Admin/License.php:246
+msgid "License disconnected."
+msgstr ""
+
+#: ../includes/Admin/ZU_Plugin_Updater.php:217
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: ../includes/Admin/ZU_Plugin_Updater.php:209
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../includes/Admin/ZU_Plugin_Updater.php:422
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../includes/Admin/ZU_Plugin_Updater.php:422
+msgid "Error"
+msgstr ""
+
+#: ../includes/Conditions/Browser.php:22
+msgid "Browser"
+msgstr ""
+
+#: ../includes/Conditions/Browser.php:29
+msgid "Cookie"
+msgstr ""
+
+#: ../includes/Conditions/Browser.php:34, ../includes/Conditions/Browser.php:111
+msgid "key"
+msgstr ""
+
+#: ../includes/Conditions/Browser.php:55, ../includes/Conditions/Browser.php:132
+msgid "value"
+msgstr ""
+
+#: ../includes/Conditions/Browser.php:62
+msgid "Request URI"
+msgstr ""
+
+#: ../includes/Conditions/Browser.php:84
+msgid "Referer"
+msgstr ""
+
+#: ../includes/Conditions/Browser.php:106
+msgid "URL Variable"
+msgstr ""
+
+#: ../includes/Conditions/Post.php:21
+msgid "Password protected"
+msgstr ""
+
+#: ../includes/Conditions/Post.php:42
+msgid "Has at least 1 entry"
+msgstr ""
+
+#: ../includes/Conditions/Post.php:55
+msgid "Has search results"
+msgstr ""
+
+#: ../includes/Conditions/Post.php:76
+msgid "Author Login Status"
+msgstr ""
+
+#: ../includes/Conditions/Post.php:84, ../includes/Conditions/User.php:29
+msgid "Logged In"
+msgstr ""
+
+#: ../includes/Conditions/Post.php:88, ../includes/Conditions/User.php:33
+msgid "Logged Out"
+msgstr ""
+
+#: ../includes/Conditions/User.php:21
+msgid "User Login Status(ZU)"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:22
+msgid "ZiUltimate Woo"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:72
+msgid "Is shop page"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:79
+msgid "Is cart page"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:86
+msgid "Is checkout page"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:93
+msgid "Is single product page"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:100
+msgid "Is account page"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:107
+msgid "Is featured product"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:114
+msgid "Is virtual product"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:121
+msgid "Is product downloadable"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:128
+msgid "Stock status"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:143
+msgid "In stock"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:147
+msgid "Out of stock"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:151
+msgid "On backorder"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:160
+msgid "Cart is empty"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:167
+msgid "Cart total"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:183
+msgid "Enter price"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:190
+msgid "Cart counter"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:206, ../includes/Elements/GallerySlider/GallerySlider.php:843, ../includes/Elements/GallerySlider/GallerySlider.php:854, ../includes/Elements/GallerySlider/GallerySlider.php:865, ../includes/Elements/GallerySlider/GallerySlider.php:876, ../includes/Elements/GallerySlider/GallerySlider.php:887, ../includes/Elements/GallerySlider/GallerySlider.php:915, ../includes/Elements/GallerySlider/GallerySlider.php:926, ../includes/Elements/GallerySlider/GallerySlider.php:937, ../includes/Elements/GallerySlider/GallerySlider.php:948, ../includes/Elements/GallerySlider/GallerySlider.php:959
+msgid "Enter integer value"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:213
+msgid "Product type"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:228, ../includes/WooElements/BuyNow/BuyNow.php:222, ../includes/WooElements/YithCompare/YithCompare.php:142, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:117
+msgid "Simple"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:232, ../includes/WooElements/BuyNow/BuyNow.php:218, ../includes/WooElements/YithCompare/YithCompare.php:138, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:113
+msgid "Grouped"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:236, ../includes/WooElements/BuyNow/BuyNow.php:226, ../includes/WooElements/YithCompare/YithCompare.php:146, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:121
+msgid "Variable"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:240, ../includes/WooElements/BuyNow/BuyNow.php:230, ../includes/WooElements/YithCompare/YithCompare.php:150, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:125
+msgid "External"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:249
+msgid "Product in stock"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:256
+msgid "Selected product in cart"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:282
+msgid "Product is on sale"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:289
+msgid "Product is visible"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:296
+msgid "Product is purchasable"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:303
+msgid "Product has image"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:310
+msgid "Product gallery images"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:325
+msgid "Product has reviews"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:332
+msgid "Has purchased product"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:358
+msgid "Has featured product"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:365
+msgid "Has on-sale product"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:372
+msgid "Has backorder"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:379
+msgid "Sku"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:397
+msgid "sku value"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:414
+msgid "Short description"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:429
+msgid "Upsell products"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:444
+msgid "Cross-sell products"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:459
+msgid "Number of reviews"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:475
+msgid "Enter numeric value"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:482
+msgid "Endpoint"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:497
+msgid "Any"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:501
+msgid "Order Pay"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:505
+msgid "Order Received"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:509
+msgid "View Order"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:513
+msgid "Edit Account"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:517
+msgid "Edit Address"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:521
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:525
+msgid "Customer Logout"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:529
+msgid "Lost Password"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:538
+msgid "Recently viewed product"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:545
+msgid "Bought at least 1 product"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:552
+msgid "Customer total orders"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:574
+msgid "Customer total spent"
+msgstr ""
+
+#: ../includes/Conditions/WooCommerce.php:596
+msgid "Customer total products"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/GetQueryString.php:30
+msgid "Get Query String Value"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/GetQueryString.php:54
+msgid "Query String"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/GetQueryString.php:55
+msgid "Enter query string name."
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/LoopCounter.php:31
+msgid "Loop Counter"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/LoopCounter.php:58
+msgid "Leading Zero"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/LoopCounter.php:59
+msgid "It will add the zero before the number."
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/PostClass.php:30
+msgid "Post Classes"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/PostClass.php:59
+msgid "Classes"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/PostClass.php:60
+msgid "Enter space-separated string of class names."
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/TermImage.php:30
+msgid "Term Image URL"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/TermImage.php:114
+msgid "Meta Field"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/TermImage.php:115
+msgid "Enter term meta key of your image. It would either return the image ID or URL."
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/TermImage.php:119, ../includes/Elements/GallerySlider/GallerySlider.php:199
+msgid "Image Size"
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/TermImage.php:120
+msgid "It will work when return format is image ID."
+msgstr ""
+
+#: ../includes/DynamicContent/Fields/TermTitle.php:30
+msgid "Term title"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:74, ../includes/Elements/DynamicTabs/DynamicTabs.php:149, ../includes/Elements/SlidingMenu/SlidingMenu.php:70
+msgid "Source"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:78, ../includes/Elements/SlidingMenu/SlidingMenu.php:74
+msgid "WP Menu"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:82, ../includes/Elements/SlidingMenu/SlidingMenu.php:78, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:151, ../includes/Repeater/Providers/WPRelatedPosts.php:130
+msgid "Taxonomy"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:93, ../includes/Elements/SlidingMenu/SlidingMenu.php:89
+msgid "Select a menu"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:109, ../includes/Elements/SlidingMenu/SlidingMenu.php:105
+msgid "Select a taxonomy"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:125, ../includes/Elements/SlidingMenu/SlidingMenu.php:121
+msgid "Include Specific Categories"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:126, ../includes/Elements/AccordionMenu/AccordionMenu.php:141, ../includes/Elements/SlidingMenu/SlidingMenu.php:122, ../includes/Elements/SlidingMenu/SlidingMenu.php:137
+msgid "Enter the category ID. Apply comma separator for multiple IDs"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:140, ../includes/Elements/SlidingMenu/SlidingMenu.php:136
+msgid "Exclude Specific Categories"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:155, ../includes/Elements/DynamicTabs/options-postsbyterms.php:60, ../includes/Elements/SlidingMenu/SlidingMenu.php:151
+msgid "Hide Empty Category"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:171, ../includes/Elements/DynamicTabs/options-postsbyterms.php:76, ../includes/Elements/SlidingMenu/SlidingMenu.php:167
+msgid "Child Of"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:186, ../includes/Elements/SlidingMenu/SlidingMenu.php:181
+msgid "Limit"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:201, ../includes/Elements/DynamicTabs/options-postsbyterms.php:114, ../includes/Elements/SlidingMenu/SlidingMenu.php:195
+msgid "Order"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:227, ../includes/Elements/DynamicTabs/options-postsbyterms.php:140, ../includes/Elements/SlidingMenu/SlidingMenu.php:220, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:380, ../includes/Repeater/Providers/WCFeaturedProducts.php:160, ../includes/Repeater/Providers/WCOnSaleProducts.php:158, ../includes/Repeater/Providers/WPRelatedPosts.php:163
+msgid "Order by"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:269, ../includes/Elements/SlidingMenu/SlidingMenu.php:261
+msgid "Display Menu Title"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:285, ../includes/Elements/SlidingMenu/SlidingMenu.php:277
+msgid "Tag"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:335, ../includes/Elements/DynamicTabs/DynamicTabs.php:352
+msgid "Transition Duration for Toggle"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:346, ../includes/Elements/SlidingMenu/SlidingMenu.php:327
+msgid "Menu Items"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:354, ../includes/Elements/AccordionMenu/AccordionMenu.php:531, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:595, ../includes/Elements/FluentForm/FluentForm.php:418, ../includes/Elements/FluentForm/FluentForm.php:638, ../includes/Elements/FluentForm/FluentForm.php:706, ../includes/Elements/FluentForm/FluentForm.php:936, ../includes/Elements/FluentForm/FluentForm.php:1046, ../includes/Elements/FluentForm/FluentForm.php:1103, ../includes/Elements/FluentForm/FluentForm.php:1413, ../includes/Elements/FluentForm/FluentForm.php:1796, ../includes/Elements/GravityForm/GravityForm.php:432, ../includes/Elements/ImageComparison/ImageComparison.php:391, ../includes/Elements/Lightbox/Lightbox.php:170, ../includes/Elements/OffCanvas/OffCanvas.php:240, ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:109, ../includes/Elements/SlidingMenu/SlidingMenu.php:337, ../includes/Elements/SlidingMenu/SlidingMenu.php:724, ../includes/Elements/SlidingMenu/SlidingMenu.php:800, ../includes/Elements/SlidingMenu/SlidingMenu.php:856, ../includes/Elements/ToggleContent/Content.php:91, ../includes/Elements/ToggleContent/Title.php:91, ../includes/Elements/WPForms/WPForms.php:364, ../includes/Elements/WPForms/WPForms.php:676, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:312, ../includes/WooElements/MiniCart/MiniCart.php:446, ../includes/WooElements/MiniCart/MiniCart.php:565
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:369, ../includes/Elements/AccordionMenu/AccordionMenu.php:545, ../includes/Elements/FluentForm/FluentForm.php:951, ../includes/Elements/SlidingMenu/SlidingMenu.php:352, ../includes/WooElements/MiniCart/MiniCart.php:476
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:384, ../includes/Elements/SlidingMenu/SlidingMenu.php:367
+msgid "Background Color of Active Link"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:385, ../includes/Elements/AccordionMenu/AccordionMenu.php:467, ../includes/Elements/AccordionMenu/AccordionMenu.php:560, ../includes/Elements/AccordionMenu/AccordionMenu.php:654, ../includes/Elements/AccordionMenu/AccordionMenu.php:709, ../includes/Elements/AccordionMenu/AccordionMenu.php:728, ../includes/Elements/AccordionMenu/AccordionMenu.php:747, ../includes/Elements/AccordionMenu/AccordionMenu.php:766, ../includes/Elements/SlidingMenu/SlidingMenu.php:368, ../includes/Elements/SlidingMenu/SlidingMenu.php:454, ../includes/Elements/SlidingMenu/SlidingMenu.php:858, ../includes/Elements/SlidingMenu/SlidingMenu.php:878
+msgid "It is for current menu item"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:403, ../includes/Elements/AccordionMenu/AccordionMenu.php:578, ../includes/Elements/FluentForm/FluentForm.php:394, ../includes/Elements/FluentForm/FluentForm.php:585, ../includes/Elements/FluentForm/FluentForm.php:902, ../includes/Elements/FluentForm/FluentForm.php:1060, ../includes/Elements/FluentForm/FluentForm.php:1117, ../includes/Elements/GravityForm/GravityForm.php:412, ../includes/Elements/SlidingMenu/SlidingMenu.php:481, ../includes/Elements/SlidingMenu/SlidingMenu.php:754, ../includes/Elements/SlidingMenu/SlidingMenu.php:830, ../includes/Elements/SlidingMenu/SlidingMenu.php:896, ../includes/Elements/SlidingMenu/SlidingMenu.php:1029, ../includes/Elements/SlidingMenu/SlidingMenu.php:1102, ../includes/Elements/TableOfContents/TableOfContents.php:548, ../includes/Elements/WPForms/WPForms.php:340
+msgid "Border Color"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:421, ../includes/Elements/AccordionMenu/AccordionMenu.php:596, ../includes/Elements/FluentForm/FluentForm.php:342, ../includes/Elements/FluentForm/FluentForm.php:567, ../includes/Elements/FluentForm/FluentForm.php:867, ../includes/Elements/FluentForm/FluentForm.php:1075, ../includes/Elements/FluentForm/FluentForm.php:1132, ../includes/Elements/GravityForm/GravityForm.php:364, ../includes/Elements/SlidingMenu/SlidingMenu.php:499, ../includes/Elements/SlidingMenu/SlidingMenu.php:772, ../includes/Elements/SlidingMenu/SlidingMenu.php:1047, ../includes/Elements/TableOfContents/TableOfContents.php:595, ../includes/Elements/WPForms/WPForms.php:288
+msgid "Border Width"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:436, ../includes/Elements/AccordionMenu/AccordionMenu.php:624, ../includes/Elements/FluentForm/FluentForm.php:820, ../includes/Elements/SlidingMenu/SlidingMenu.php:401, ../includes/WooElements/RatingsGraph/RatingsGraph.php:507
+msgid "Typography"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:451, ../includes/Elements/AccordionMenu/AccordionMenu.php:638, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:299, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:513, ../includes/Elements/FluentForm/FluentForm.php:1751, ../includes/Elements/Lightbox/Lightbox.php:536, ../includes/Elements/Lightbox/Lightbox.php:639, ../includes/Elements/Lightbox/Lightbox.php:1066, ../includes/Elements/ReadMore/ReadMore.php:287, ../includes/Elements/ReadMore/ReadMore.php:317, ../includes/Elements/SlidingMenu/SlidingMenu.php:438, ../includes/WooElements/BuyNow/BuyNow.php:415, ../includes/WooElements/CartCounter/CartCounter.php:282, ../includes/WooElements/CartCounter/CartCounter.php:400, ../includes/WooElements/CartCounter/CartCounter.php:630, ../includes/WooElements/CartCounter/CartCounter.php:791, ../includes/WooElements/ContinueShopping/ContinueShopping.php:277, ../includes/WooElements/EmptyCart/EmptyCart.php:331, ../includes/WooElements/MiniCart/MiniCart.php:495, ../includes/WooElements/YithCompare/YithCompare.php:312
+msgid "Hover Color"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:466, ../includes/Elements/SlidingMenu/SlidingMenu.php:453
+msgid "Active Link Color"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:493, ../includes/Elements/AccordionMenu/AccordionMenu.php:673, ../includes/Elements/FluentForm/FluentForm.php:810, ../includes/Elements/FluentForm/FluentForm.php:1863, ../includes/Elements/SlidingMenu/SlidingMenu.php:548, ../includes/Elements/ToggleContent/Content.php:148, ../includes/WooElements/CartCounter/CartCounter.php:980
+msgid "Padding"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:506
+msgid "Sub Menu"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:515
+msgid "Enable Builder Preview"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:516
+msgid "Enable this option when you will edit the sub menu items."
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:559, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:328
+msgid "Active Background Color"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:616
+msgid "Link Text Indent"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:653, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:322, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:528, ../includes/Elements/FluentForm/FluentForm.php:1514, ../includes/Elements/FluentForm/FluentForm.php:1612, ../includes/Elements/WPForms/WPForms.php:896
+msgid "Active Color"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:686, ../includes/Elements/AccordionMenu/AccordionMenu.php:970, ../includes/Elements/SlidingMenu/SlidingMenu.php:653, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:164
+msgid "Arrow Icon"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:695, ../includes/Elements/SlidingMenu/SlidingMenu.php:662, ../includes/Elements/SlidingMenu/SlidingMenu.php:937
+msgid "Select Icon"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:708
+msgid "Icon BG Color of Active Menu Item"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:727
+msgid "Icon Color of Active Menu Item"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:746
+msgid "Icon BG Color of Active Sub Menu Items"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:765
+msgid "Icon Color of Active Sub Menu Item"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:784, ../includes/Elements/AnimatedHeading/AnimatedHeading.php:151, ../includes/Elements/DynamicTabs/DynamicTabs.php:216, ../includes/Elements/DynamicTabs/DynamicTabs.php:373, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:171, ../includes/Elements/Lightbox/Lightbox.php:1269, ../includes/Elements/ToggleContent/ToggleButton.php:70, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:485, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:186
+msgid "Animation"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:797
+msgid "Rotate (Initial State)"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:811, ../includes/Elements/AnimatedBurger/AnimatedBurger.php:69, ../includes/Elements/SlidingMenu/SlidingMenu.php:570
+msgid "Animation Type"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:815, ../includes/Elements/DynamicTabs/DynamicTabs.php:376, ../includes/Elements/ToggleContent/ToggleButton.php:73, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:189
+msgid "Rotate"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:819, ../includes/Elements/DynamicTabs/DynamicTabs.php:381, ../includes/Elements/ToggleContent/ToggleButton.php:78, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:194
+msgid "Vertical Flip"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:835
+msgid "Rotate (Active State)"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:836
+msgid "when sub menu is sliding."
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:861, ../includes/Elements/AccordionMenu/AccordionMenu.php:891, ../includes/Elements/AnimatedHeading/AnimatedHeading.php:349, ../includes/Elements/DynamicTabs/DynamicTabs.php:261, ../includes/Elements/DynamicTabs/DynamicTabs.php:286, ../includes/Elements/DynamicTabs/DynamicTabs.php:423, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:205, ../includes/Elements/OffCanvas/OffCanvas.php:154, ../includes/Elements/SlidingMenu/SlidingMenu.php:1134, ../includes/Elements/TableOfContents/TableOfContents.php:122, ../includes/Elements/ToggleContent/ToggleButton.php:129, ../includes/WooElements/CartCounter/CartCounter.php:1087, ../includes/WooElements/MiniCart/MiniCart.php:729, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:105, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:236
+msgid "Transition Duration"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:878, ../includes/Elements/SlidingMenu/SlidingMenu.php:1121
+msgid "Hover Animation"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:918, ../includes/Elements/SlidingMenu/SlidingMenu.php:1165
+msgid "How much slide from left"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:950, ../includes/Elements/SlidingMenu/SlidingMenu.php:1198
+msgid "Menu Title"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:960
+msgid "Menu Items Wrapper"
+msgstr ""
+
+#: ../includes/Elements/AccordionMenu/AccordionMenu.php:980
+msgid "Arrow Icon of Sub Menu Items"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:88
+msgid "Effect"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:89
+msgid "See the demo here https://jonsuh.com/hamburgers/"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:167
+msgid "Lines Width"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:183, ../includes/Elements/FluentForm/FluentForm.php:1810
+msgid "Line Height"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:200, ../includes/Elements/FluentForm/FluentForm.php:1649, ../includes/Elements/GallerySlider/GallerySlider.php:968, ../includes/Elements/Lightbox/Lightbox.php:683, ../includes/Elements/WPForms/WPForms.php:543
+msgid "Gap"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:201
+msgid "Set up the gaps between the lines."
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:218
+msgid "1st Line Width"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:240
+msgid "3rd Line Width"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:262, ../includes/Elements/FluentForm/FluentForm.php:370, ../includes/Elements/GravityForm/GravityForm.php:388, ../includes/Elements/ImageComparison/ImageComparison.php:366, ../includes/Elements/WPForms/WPForms.php:316, ../includes/WooElements/MiniCart/MiniCart.php:533
+msgid "Border Radius"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:276, ../includes/Elements/FluentForm/FluentForm.php:1827, ../includes/Elements/HighlightedHeading/HighlightedHeading.php:300
+msgid "Line Color"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:345
+msgid "Lines Alignment"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:349, ../includes/Elements/ImageMask/ImageMask.php:142, ../includes/Elements/Lightbox/Lightbox.php:402, ../includes/Elements/Lightbox/Lightbox.php:1134, ../includes/Elements/Lightbox/Lightbox.php:1217, ../includes/Elements/OffCanvas/OffCanvas.php:109, ../includes/Elements/ReadMore/ReadMore.php:170, ../includes/Elements/ReadMore/ReadMore.php:233, ../includes/Elements/SlidingMenu/SlidingMenu.php:597, ../includes/WooElements/BuyNow/BuyNow.php:445, ../includes/WooElements/CartCounter/CartCounter.php:362, ../includes/WooElements/CartCounter/CartCounter.php:484, ../includes/WooElements/CartCounter/CartCounter.php:679, ../includes/WooElements/CartCounter/CartCounter.php:942, ../includes/WooElements/ContinueShopping/ContinueShopping.php:307, ../includes/WooElements/EmptyCart/EmptyCart.php:361, ../includes/WooElements/YithCompare/YithCompare.php:344
+msgid "Left"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:353, ../includes/Elements/ImageMask/ImageMask.php:146, ../includes/Elements/Lightbox/Lightbox.php:426, ../includes/Elements/Lightbox/Lightbox.php:1151, ../includes/Elements/Lightbox/Lightbox.php:1234, ../includes/Elements/OffCanvas/OffCanvas.php:113, ../includes/Elements/ReadMore/ReadMore.php:174, ../includes/Elements/ReadMore/ReadMore.php:237, ../includes/Elements/SlidingMenu/SlidingMenu.php:601, ../includes/WooElements/BuyNow/BuyNow.php:449, ../includes/WooElements/CartCounter/CartCounter.php:366, ../includes/WooElements/CartCounter/CartCounter.php:488, ../includes/WooElements/CartCounter/CartCounter.php:683, ../includes/WooElements/CartCounter/CartCounter.php:961, ../includes/WooElements/ContinueShopping/ContinueShopping.php:311, ../includes/WooElements/EmptyCart/EmptyCart.php:365
+msgid "Right"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:384, ../includes/Elements/ToggleContent/ToggleButton.php:59, ../includes/WooElements/CartCounter/CartCounter.php:156
+msgid "Aria Label"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:402
+msgid "Active on Page Load"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:415
+msgid "Menu Text"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:424, ../includes/WooElements/AddToCart/AddToCart.php:204, ../includes/WooElements/AddToCart/AddToCart.php:233, ../includes/WooElements/AddToCart/AddToCart.php:261, ../includes/WooElements/AddToCart/AddToCart.php:289, ../includes/WooElements/CartCounter/CartCounter.php:211, ../includes/WooElements/ReviewRatings/ReviewRatings.php:113, ../includes/WooElements/ReviewRatings/ReviewRatings.php:241, ../includes/WooElements/YithCompare/YithCompare.php:84
+msgid "Text"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:436, ../includes/Elements/FluentForm/FluentForm.php:1452, ../includes/Elements/ImageMask/ImageMask.php:126, ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:68, ../includes/Elements/ReadMore/ReadMore.php:166, ../includes/Elements/ReadMore/ReadMore.php:229, ../includes/WooElements/BuyNow/BuyNow.php:442, ../includes/WooElements/CartCounter/CartCounter.php:359, ../includes/WooElements/CartCounter/CartCounter.php:481, ../includes/WooElements/CartCounter/CartCounter.php:676, ../includes/WooElements/CartCounter/CartCounter.php:913, ../includes/WooElements/ContinueShopping/ContinueShopping.php:304, ../includes/WooElements/EmptyCart/EmptyCart.php:358, ../includes/WooElements/YithCompare/YithCompare.php:340
+msgid "Position"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:440
+msgid "Right side of the icon"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:444
+msgid "Left side of the icon"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:461
+msgid "Space between icon & text"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:486
+msgid "Space between text & icon"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:546
+msgid "Dropdown"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:555
+msgid "Add dropdown"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:575
+msgid "In-Builder Preview"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:621, ../includes/Elements/FluentForm/FluentForm.php:1381, ../includes/Elements/GallerySlider/GallerySlider.php:569, ../includes/Elements/Lightbox/Lightbox.php:189, ../includes/Elements/Lightbox/Lightbox.php:860, ../includes/Elements/WPForms/WPForms.php:781, ../includes/WooElements/BuyNow/BuyNow.php:254, ../includes/WooElements/CartCounter/CartCounter.php:861, ../includes/WooElements/ContinueShopping/ContinueShopping.php:119, ../includes/WooElements/EmptyCart/EmptyCart.php:173, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:348, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:407, ../includes/WooElements/MiniCart/MiniCart.php:176, ../includes/WooElements/MiniCart/MiniCart.php:331, ../includes/WooElements/MiniCart/MiniCart.php:422, ../includes/WooElements/RatingsGraph/RatingsGraph.php:214, ../includes/WooElements/RatingsGraph/RatingsGraph.php:487, ../includes/WooElements/YithCompare/YithCompare.php:163
+msgid "Width"
+msgstr ""
+
+#: ../includes/Elements/AnimatedBurger/AnimatedBurger.php:655
+msgid "Dropdown Styles"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:62
+msgid "Disable Preview on Builder Editor?"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:72, ../includes/Elements/HighlightedHeading/HighlightedHeading.php:97
+msgid "Before Text"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:73
+msgid "This text will be placed before the animated text."
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:84
+msgid "Animated Text"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:85
+msgid "Use pipeline('|') separator to add the multiple animated text."
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:86
+msgid "Animated|Rotating"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:97, ../includes/Elements/HighlightedHeading/HighlightedHeading.php:121
+msgid "After Text"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:98
+msgid "This text will be placed after the animated text."
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:109, ../includes/WooElements/CartPage/CartPage.php:80, ../includes/WooElements/SaleOffer/SaleOffer.php:120
+msgid "HTML tag"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:160, ../includes/WooElements/CartCounter/CartCounter.php:208, ../includes/WooElements/RatingsGraph/RatingsGraph.php:459
+msgid "Type"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:164
+msgid "Clip"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:168
+msgid "Loading Bar"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:172, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:108, ../includes/Elements/SlidingMenu/SlidingMenu.php:578
+msgid "Push"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:176
+msgid "Rotate 1"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:180
+msgid "Rotate 2"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:184
+msgid "Rotate 3"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:188
+msgid "Scale"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:192
+msgid "Slide"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:196
+msgid "Typing"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:199, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:175
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:211
+msgid "Vertical Line Color"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:235, ../includes/Elements/AnimatedHeading/AnimatedHeading.php:280
+msgid "Vertical Line Width"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:256
+msgid "Vertical Line Color(Blinking Line)"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:301
+msgid "Loading Bar Color"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:326, ../includes/Elements/FluentForm/FluentForm.php:1435, ../includes/Elements/GallerySlider/GallerySlider.php:639, ../includes/Elements/GallerySlider/GallerySlider.php:711, ../includes/Elements/Lightbox/Lightbox.php:202, ../includes/Elements/Lightbox/Lightbox.php:891, ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:91, ../includes/Elements/WPForms/WPForms.php:863, ../includes/Elements/WPForms/WPForms.php:1045, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:367, ../includes/WooElements/MiniCart/MiniCart.php:207, ../includes/WooElements/RatingsGraph/RatingsGraph.php:304
+msgid "Height"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:363, ../includes/Elements/Lightbox/Lightbox.php:1308, ../includes/Elements/OffCanvas/OffCanvas.php:204, ../includes/WooElements/CartCounter/CartCounter.php:1135, ../includes/WooElements/MiniCart/MiniCart.php:105
+msgid "Delay"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:376
+msgid "Delay for Loading Bar Animation Type"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:389
+msgid "Delay for Letters Type"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:390
+msgid "This is for 'Type', 'Rotate 2', 'Rotate 3', 'Scale' animaition type."
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:403
+msgid "Delay for Typing Animation"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:416
+msgid "Typing Duration"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:429
+msgid "Delay for Clip Animation"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:442
+msgid "Duration for Clip Animation Type"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:453
+msgid "Typography of Before and After Text"
+msgstr ""
+
+#: ../includes/Elements/AnimatedHeading/AnimatedHeading.php:467
+msgid "Typography of Animated Text"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:71, ../includes/Elements/GallerySlider/GallerySlider.php:61
+msgid "Using for"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:75
+msgid "Back to top"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:79
+msgid "Jump to section"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:90
+msgid "Disable back to top button preview for editor?"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:115
+msgid "Enter Target Section Selector"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:116
+msgid "Enter HTML TAG or CSS Classname or ID. eg. html,body,.my-section, #my-div etc"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:135, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:195
+msgid "Offset"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:154
+msgid "Transition Duration for Fade Effect"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:179
+msgid "Visible after scroll"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:198
+msgid "Scrolling Speed"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:206
+msgid "Easing"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:210
+msgid "Linear"
+msgstr ""
+
+#: ../includes/Elements/BackToTop/BackToTop.php:214
+msgid "Swing"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:56, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:67, ../includes/WooElements/CartCounter/CartCounter.php:922, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:126
+msgid "Note"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:57
+msgid "To display breadcrumbs, you need to enable breadcrumbs in respective SEO plugins settings page."
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:66, ../includes/Elements/ContactForm7/ContactForm7.php:68, ../includes/Elements/FluentForm/FluentForm.php:72, ../includes/Elements/GravityForm/GravityForm.php:72, ../includes/Elements/PiotnetForm/PiotnetForm.php:72, ../includes/Elements/WPForms/WPForms.php:72
+msgid "Source Type"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:67
+msgid "Select your active SEO plugin."
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:71
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:75
+msgid "Rankmath"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:79
+msgid "SEOPress"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:83
+msgid "Yoast"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:108, ../includes/Elements/GallerySlider/single-image.php:32
+msgid "Select the desired alignment."
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:118, ../includes/WooElements/BuyNow/BuyNow.php:315, ../includes/WooElements/ContinueShopping/ContinueShopping.php:180, ../includes/WooElements/EmptyCart/EmptyCart.php:234, ../includes/WooElements/YithCompare/YithCompare.php:220
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:127, ../includes/Elements/FluentForm/FluentForm.php:750, ../includes/Elements/SlidingMenu/SlidingMenu.php:424
+msgid "Link Color"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:137, ../includes/Elements/FluentForm/FluentForm.php:765
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:147, ../includes/Elements/WPForms/WPForms.php:1122
+msgid "Separator Color"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:163
+msgid "Separator Size"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:190
+msgid "Links style"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:202, ../includes/Elements/Breadcrumbs/Breadcrumbs.php:215, ../includes/Elements/Breadcrumbs/Breadcrumbs.php:227
+msgid "Last Item"
+msgstr ""
+
+#: ../includes/Elements/Breadcrumbs/Breadcrumbs.php:237, ../includes/Elements/Breadcrumbs/Breadcrumbs.php:249
+msgid "Separator"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:88
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:89
+msgid "Make sure that you build atleast one contact form."
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:104, ../includes/Elements/FluentForm/FluentForm.php:108, ../includes/Elements/GravityForm/GravityForm.php:108, ../includes/Elements/WPForms/WPForms.php:108
+msgid "Setup Form ID"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:105
+msgid "Make sure that it returns the contact form 7 ID."
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:122
+msgid "Show Form Ttile"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:132
+msgid "Form Title Tag"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:182, ../includes/Elements/FluentForm/FluentForm.php:174, ../includes/Elements/GravityForm/GravityForm.php:235, ../includes/Elements/PiotnetForm/PiotnetForm.php:127, ../includes/Elements/WPForms/WPForms.php:166
+msgid "Textarea Height"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:231, ../includes/Elements/GravityForm/GravityForm.php:689, ../includes/Elements/WPForms/WPForms.php:1246
+msgid "Form Title"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:241
+msgid "Form Labels"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:251, ../includes/Elements/FluentForm/FluentForm.php:1956, ../includes/Elements/PiotnetForm/PiotnetForm.php:378
+msgid "Input fields"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:261
+msgid "Select fields"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:271, ../includes/Elements/FluentForm/FluentForm.php:1966, ../includes/Elements/GravityForm/GravityForm.php:811, ../includes/Elements/PiotnetForm/PiotnetForm.php:408, ../includes/Elements/WPForms/WPForms.php:1326
+msgid "Submit Button"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:281
+msgid "Input Fields Error Message"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:291
+msgid "Validation Error Message"
+msgstr ""
+
+#: ../includes/Elements/ContactForm7/ContactForm7.php:301, ../includes/Elements/FluentForm/FluentForm.php:2006, ../includes/Elements/GravityForm/GravityForm.php:851, ../includes/Elements/WPForms/WPForms.php:1386
+msgid "Success Message"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:81
+msgid "Layout"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:86, ../includes/Elements/ImageMask/ImageMask.php:322
+msgid "Horizontal"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:90, ../includes/Elements/ImageMask/ImageMask.php:326
+msgid "Vertical"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:101, ../includes/WooElements/YithCompare/YithCompare.php:65
+msgid "Template"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:106, ../includes/Elements/ImageMask/ImageMask.php:150, ../includes/Elements/ImageMask/ImageMask.php:253, ../includes/Elements/Lightbox/Lightbox.php:458
+msgid "Custom"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:110
+msgid "Gaps between tabs"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:114
+msgid "No gaps between tabs"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:118
+msgid "No borders arround the tabs"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:129, ../includes/Elements/GravityForm/GravityForm.php:156, ../includes/Elements/ToggleContent/Title.php:69, ../includes/WooElements/CartCounter/CartCounter.php:175
+msgid "Tab Index"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:141
+msgid "Dynamic Data Config"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:153
+msgid "ACF repeater"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:157
+msgid "ACF options page with repeater"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:161
+msgid "MetaBox cloneable group"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:165
+msgid "MetaBox settings page with group"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:169
+msgid "Display Posts from selected taxonomy"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:173
+msgid "Show content via post IDs"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:177
+msgid "WooCommerce Tabs"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:188, ../includes/Elements/GallerySlider/GallerySlider.php:174
+msgid "Post ID"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:189
+msgid "Leave empty if you are using it in the query builder or single post / page."
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:225
+msgid "Transition Effect"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:229, ../includes/Elements/ImageMask/ImageMask.php:318, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:127, ../includes/Elements/TableOfContents/TableOfContents.php:211, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:214, ../includes/Repeater/Providers/WCFeaturedProducts.php:165, ../includes/Repeater/Providers/WCOnSaleProducts.php:163, ../includes/WooElements/BuyNow/BuyNow.php:104, ../includes/WooElements/CartCounter/CartCounter.php:96, ../includes/WooElements/ContinueShopping/ContinueShopping.php:79, ../includes/WooElements/EmptyCart/EmptyCart.php:104, ../includes/WooElements/EmptyCart/EmptyCart.php:133, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:426, ../includes/WooElements/MiniCart/MiniCart.php:364
+msgid "None"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:233
+msgid "Fade"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:237
+msgid "Slide left"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:241
+msgid "Slide Up"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:245
+msgid "Slide Down"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:310
+msgid "Accordion Config"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:319
+msgid "Notes:"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:320
+msgid "Tabs are converting to accordion on small devices(width < 769px). You can see the preview when you will select the tablet or any other breakpoints."
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:328
+msgid "First tab active by default?"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:398, ../includes/Elements/ToggleContent/ToggleButton.php:104
+msgid "Rotate(Active State)"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:463
+msgid "Tabs Outer Wrapper Styles"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:473
+msgid "Tabs Styles"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:483
+msgid "Active Tab Styles"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:493
+msgid "Content Wrapper Styles"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:503, ../includes/Elements/ToggleContent/Content.php:227
+msgid "Content Styles"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:513
+msgid "Active Content Styles"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:523, ../includes/Elements/ToggleContent/ToggleButton.php:147, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:292
+msgid "Icon Style"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:533, ../includes/Elements/ToggleContent/ToggleButton.php:155
+msgid "Active Icon Style"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:562
+msgid "Tab 1"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:563, ../includes/Elements/DynamicTabs/DynamicTabs.php:567, ../includes/Elements/DynamicTabs/DynamicTabs.php:571
+msgid "Sample tab content"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:566
+msgid "Tab 2"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:570
+msgid "Tab 3"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/DynamicTabs.php:719
+msgid "Demo tab content"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-acfmb.php:6, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:135
+msgid "Repeater Field Name"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-acfmb.php:20
+msgid "Option Name"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-acfmb.php:34
+msgid "Cloneable Group ID"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-acfmb.php:48, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:143
+msgid "Title Field Name"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-acfmb.php:76
+msgid "Tab Title Field ID"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-acfmb.php:104
+msgid "Tab Content Field Name"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-acfmb.php:118
+msgid "Content Field ID"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-acfmb.php:132
+msgid "Enable wpautop?"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-postsbyterms.php:6
+msgid "Select Taxonomy"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-postsbyterms.php:22
+msgid "Include Terms"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-postsbyterms.php:24, ../includes/Elements/DynamicTabs/options-postsbyterms.php:43
+msgid "Enter the term ID. Apply comma separator for multiple IDs"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-postsbyterms.php:41
+msgid "Exclude Terms"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-postsbyterms.php:94
+msgid "Number of Terms"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-postsbyterms.php:95
+msgid "How many terms will show in tabs. Default is 3."
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-postsbyterms.php:182
+msgid "Zion Builder Template ID"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-postsbyterms.php:183, ../includes/Elements/DynamicTabs/options-tabsbypostids.php:113
+msgid "It is a mandatory option. You should enter the correct template ID."
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:6
+msgid "Enter Post IDs"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:7
+msgid "Enter IDs with comma."
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:24
+msgid "Retrieve Tab Title From"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:28
+msgid "Post Title"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:32, ../includes/Elements/DynamicTabs/options-tabsbypostids.php:80
+msgid "Custom Field"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:49, ../includes/Elements/DynamicTabs/options-tabsbypostids.php:97
+msgid "Custom Field Name"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:50, ../includes/Elements/DynamicTabs/options-tabsbypostids.php:98
+msgid "Enter meta key name."
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:64
+msgid "Retrieve Tab Content From"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:68
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:72
+msgid "Post Content"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:76
+msgid "Zion Template with Repeater"
+msgstr ""
+
+#: ../includes/Elements/DynamicTabs/options-tabsbypostids.php:112
+msgid "Template ID"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:92
+msgid "Fluent Form"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:93
+msgid "Make sure that you build at least one fluent form."
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:109, ../includes/Elements/GravityForm/GravityForm.php:109, ../includes/Elements/PiotnetForm/PiotnetForm.php:109, ../includes/Elements/WPForms/WPForms.php:109
+msgid "Make sure that it returns the form ID."
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:128, ../includes/Elements/GravityForm/GravityForm.php:168, ../includes/Elements/WPForms/WPForms.php:711
+msgid "Horizontal Gap"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:129, ../includes/Elements/GravityForm/GravityForm.php:215, ../includes/Elements/GravityForm/GravityForm.php:572, ../includes/Elements/WPForms/WPForms.php:150, ../includes/Elements/WPForms/WPForms.php:735
+msgid "Gap between rows"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:132, ../includes/Elements/GravityForm/GravityForm.php:172, ../includes/Elements/WPForms/WPForms.php:715
+msgid "Horizontal distance"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:153, ../includes/Elements/GravityForm/GravityForm.php:214, ../includes/Elements/WPForms/WPForms.php:149, ../includes/Elements/WPForms/WPForms.php:734
+msgid "Vertical Gap"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:154, ../includes/Elements/GravityForm/GravityForm.php:169, ../includes/Elements/GravityForm/GravityForm.php:599, ../includes/Elements/WPForms/WPForms.php:712
+msgid "Gap between columns"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:157, ../includes/Elements/GravityForm/GravityForm.php:218, ../includes/Elements/GravityForm/GravityForm.php:575, ../includes/Elements/WPForms/WPForms.php:738
+msgid "Vertical distance"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:192
+msgid "Asterisk"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:200, ../includes/Elements/FluentForm/FluentForm.php:720, ../includes/Elements/FluentForm/FluentForm.php:1367, ../includes/Elements/FluentForm/FluentForm.php:1469, ../includes/Elements/FluentForm/FluentForm.php:1498, ../includes/Elements/FluentForm/FluentForm.php:1736, ../includes/Elements/GravityForm/GravityForm.php:281, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:482, ../includes/Elements/Lightbox/Lightbox.php:520, ../includes/Elements/Lightbox/Lightbox.php:618, ../includes/Elements/Lightbox/Lightbox.php:1050, ../includes/Elements/PiotnetForm/PiotnetForm.php:154, ../includes/Elements/WPForms/WPForms.php:557, ../includes/Elements/WPForms/WPForms.php:763, ../includes/Elements/WPForms/WPForms.php:881, ../includes/Elements/WPForms/WPForms.php:1059, ../includes/WooElements/BuyNow/BuyNow.php:405, ../includes/WooElements/CartCounter/CartCounter.php:265, ../includes/WooElements/CartCounter/CartCounter.php:383, ../includes/WooElements/CartCounter/CartCounter.php:620, ../includes/WooElements/CartCounter/CartCounter.php:781, ../includes/WooElements/ContinueShopping/ContinueShopping.php:267, ../includes/WooElements/EmptyCart/EmptyCart.php:321, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:391, ../includes/WooElements/MiniCart/MiniCart.php:307, ../includes/WooElements/MiniCart/MiniCart.php:461, ../includes/WooElements/MiniCart/MiniCart.php:580, ../includes/WooElements/YithCompare/YithCompare.php:302
+msgid "Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:219
+msgid "Gap Left"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:220
+msgid "Set the value when asterisk is placed at right side of label."
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:238
+msgid "Gap Right"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:239
+msgid "Set the value when asterisk is placed at left side of label."
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:257, ../includes/Elements/FluentForm/FluentForm.php:305, ../includes/Elements/FluentForm/FluentForm.php:1338, ../includes/Elements/FluentForm/FluentForm.php:1766, ../includes/Elements/GravityForm/GravityForm.php:295, ../includes/Elements/GravityForm/GravityForm.php:335, ../includes/Elements/ImageMask/ImageMask.php:237, ../includes/Elements/Lightbox/Lightbox.php:551, ../includes/Elements/Lightbox/Lightbox.php:660, ../includes/Elements/OffCanvas/OffCanvas.php:299, ../includes/Elements/PiotnetForm/PiotnetForm.php:171, ../includes/Elements/WPForms/WPForms.php:251, ../includes/WooElements/BuyNow/BuyNow.php:430, ../includes/WooElements/CartCounter/CartCounter.php:424, ../includes/WooElements/ContinueShopping/ContinueShopping.php:292, ../includes/WooElements/EmptyCart/EmptyCart.php:346, ../includes/WooElements/MiniCart/MiniCart.php:515, ../includes/WooElements/ReviewRatings/ReviewRatings.php:193, ../includes/WooElements/YithCompare/YithCompare.php:327
+msgid "Size"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:282, ../includes/Elements/GravityForm/GravityForm.php:317, ../includes/Elements/WPForms/WPForms.php:233
+msgid "Radio & Checkboxes"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:295, ../includes/Elements/GravityForm/GravityForm.php:325, ../includes/Elements/WPForms/WPForms.php:241
+msgid "Enable Smart UI"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:371, ../includes/Elements/GravityForm/GravityForm.php:389, ../includes/Elements/WPForms/WPForms.php:317
+msgid "This is for checkbox only."
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:442, ../includes/Elements/GravityForm/GravityForm.php:452, ../includes/Elements/WPForms/WPForms.php:388
+msgid "Checked Border Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:466, ../includes/Elements/GravityForm/GravityForm.php:472, ../includes/Elements/WPForms/WPForms.php:408
+msgid "Checked Background Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:490, ../includes/Elements/GravityForm/GravityForm.php:492, ../includes/Elements/WPForms/WPForms.php:428
+msgid "White Check Mark Size"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:515, ../includes/Elements/GravityForm/GravityForm.php:517, ../includes/Elements/WPForms/WPForms.php:453
+msgid "White Bullet Size (radio button)"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:540, ../includes/Elements/FluentForm/FluentForm.php:1874, ../includes/Elements/GravityForm/GravityForm.php:542, ../includes/Elements/WPForms/WPForms.php:478, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:474
+msgid "Margin"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:559
+msgid "Checkable Grid"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:600, ../includes/Elements/FluentForm/FluentForm.php:1038
+msgid "Table Head"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:608, ../includes/Elements/Lightbox/Lightbox.php:488, ../includes/Elements/Lightbox/Lightbox.php:1018, ../includes/WooElements/BuyNow/BuyNow.php:295, ../includes/WooElements/CartCounter/CartCounter.php:595, ../includes/WooElements/CartCounter/CartCounter.php:904, ../includes/WooElements/ContinueShopping/ContinueShopping.php:160, ../includes/WooElements/EmptyCart/EmptyCart.php:214, ../includes/WooElements/YithCompare/YithCompare.php:200
+msgid "Background"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:630
+msgid "Table Body"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:653
+msgid "Alt Background Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:668
+msgid "Alt Text Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:695
+msgid "GDPR / T&C"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:735
+msgid "Error Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:780
+msgid "Error Link Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:795
+msgid "Error Link Hover Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:836
+msgid "Net Promoter Score"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:844, ../includes/Elements/ImageComparison/ImageComparison.php:438
+msgid "Label"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:859
+msgid "Number Style"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:885
+msgid "Hover Border Width"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:921, ../includes/Elements/SlidingMenu/SlidingMenu.php:514
+msgid "Hover Border Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:966, ../includes/Elements/WPForms/WPForms.php:984
+msgid "Number Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:981
+msgid "Number Hover Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:996
+msgid "Selected BG Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1011
+msgid "Selected No. Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1030, ../includes/Elements/FluentForm/FluentForm.php:1976
+msgid "Payment Summary"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1095
+msgid "Table Footer"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1150
+msgid "Total Text"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1160, ../includes/Repeater/Providers/WCFeaturedProducts.php:173, ../includes/Repeater/Providers/WCOnSaleProducts.php:171, ../includes/WooElements/AddToCart/AddToCart.php:423
+msgid "Price"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1175
+msgid "Form Step"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1190, ../includes/Elements/WPForms/WPForms.php:849, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:271, ../includes/WooElements/RatingsGraph/RatingsGraph.php:232
+msgid "Progress Bar"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1198, ../includes/Elements/OffCanvas/OffCanvas.php:319
+msgid "Bar Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1213
+msgid "Bar Active Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1228, ../includes/Elements/GallerySlider/GallerySlider.php:472
+msgid "Bar Height"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1244
+msgid "Bar Score"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1261, ../includes/Elements/PiotnetForm/PiotnetForm.php:188, ../includes/WooElements/CartCounter/CartCounter.php:514
+msgid "Position Top"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1278
+msgid "Position Left"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1295
+msgid "Top Text"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1322
+msgid "Steps"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1330
+msgid "Square Box"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1357, ../includes/Elements/SlidingMenu/SlidingMenu.php:473, ../includes/Elements/WPForms/WPForms.php:754, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:382
+msgid "Border"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1397, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:460
+msgid "Radius"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1427, ../includes/Elements/FluentForm/FluentForm.php:1548
+msgid "Horizontal Line"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1483, ../includes/Elements/FluentForm/FluentForm.php:1566, ../includes/WooElements/RatingsGraph/RatingsGraph.php:463
+msgid "Number"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1522
+msgid "Box"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1587
+msgid "Ratings"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1597
+msgid "Default Color"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1627
+msgid "Star Size"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1650
+msgid "Set the spaces between stars"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1668
+msgid "Rating Text"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1682
+msgid "Repeat Field"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1691, ../includes/Elements/GravityForm/GravityForm.php:571
+msgid "Row Gap"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1692
+msgid "Set the distance between two rows."
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1710
+msgid "Column Gap"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1711
+msgid "Distance between two fields"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1728
+msgid "Plus/Minus Buttons"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1786
+msgid "Section Break"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1842, ../includes/Elements/ToggleContent/Title.php:24, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:260
+msgid "Title"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1852
+msgid "Description"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1946, ../includes/Elements/PiotnetForm/PiotnetForm.php:358
+msgid "Fields Label"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1986
+msgid "Prev / Next Buttons"
+msgstr ""
+
+#: ../includes/Elements/FluentForm/FluentForm.php:1996
+msgid "Error Text"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:27
+msgid "Photo"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:65
+msgid "Single Image"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:69
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:87
+msgid "Photo Source"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:113, ../includes/Elements/GallerySlider/GallerySlider.php:114
+msgid "Select images."
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:115
+msgid "Gallery Images"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:151
+msgid "Gallery Field Name"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:175
+msgid "Set it if gallery import from another post/page/cpt. Leaver it blank for active page."
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:176
+msgid "It would be integer value"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:216
+msgid "Carousell Type"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:246
+msgid "Focus"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:272, ../includes/Elements/ImageMask/ImageMask.php:314, ../includes/Elements/ImageScroller/ImageScroller.php:78, ../includes/Elements/SlidingMenu/SlidingMenu.php:589
+msgid "Direction"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:306
+msgid "Rewind Slides"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:331, ../includes/Elements/ReadMore/ReadMore.php:137
+msgid "Transition Speed"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:350
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:351
+msgid "Lightbox preview is disabled on editor"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:370
+msgid "Autoplay"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:384
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:403
+msgid "Interval"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:422
+msgid "Show Progress Bar"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:513
+msgid "Progress Color"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:534
+msgid "Progress Bar Color"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:555
+msgid "Slides Width & Height"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:592
+msgid "Set Width"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:665, ../includes/Elements/GallerySlider/GallerySlider.php:763
+msgid "Set Height"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:740
+msgid "heightRatio"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:804
+msgid "Cover Image (covering the wrapper)"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:805
+msgid "It will turn off automatically when height is auto."
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:824
+msgid "Slides Per Page"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:842, ../includes/Elements/GallerySlider/GallerySlider.php:914, ../includes/Elements/GallerySlider/GallerySlider.php:982
+msgid "Desktop"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:853, ../includes/Elements/GallerySlider/GallerySlider.php:925
+msgid "Width <= 992px"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:864, ../includes/Elements/GallerySlider/GallerySlider.php:936, ../includes/Elements/GallerySlider/GallerySlider.php:995
+msgid "Width <= 768px"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:875, ../includes/Elements/GallerySlider/GallerySlider.php:947, ../includes/Elements/GallerySlider/GallerySlider.php:1008
+msgid "Width <= 680px"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:886, ../includes/Elements/GallerySlider/GallerySlider.php:958, ../includes/Elements/GallerySlider/GallerySlider.php:1021
+msgid "Width <= 480px"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:896
+msgid "Slides Per Move"
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/GallerySlider.php:1157
+msgid "Enter gallery field name."
+msgstr ""
+
+#: ../includes/Elements/GallerySlider/single-image.php:10, ../includes/Elements/ImageMask/ImageMask.php:63, ../includes/Elements/ImageScroller/ImageScroller.php:63
+msgid "Image"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:92
+msgid "Gravity Form"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:93
+msgid "Make sure that you build at least one gravity form."
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:126, ../includes/Elements/WPForms/WPForms.php:126
+msgid "Show title?"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:136, ../includes/Elements/WPForms/WPForms.php:136
+msgid "Show description?"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:146
+msgid "Enable Ajax?"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:250
+msgid "Hide Sub Labels?"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:273
+msgid "Asterisk/Required Text"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:561
+msgid "Address Fields"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:598
+msgid "Columns Gap"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:699, ../includes/Elements/WPForms/WPForms.php:1256
+msgid "Form Description"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:709
+msgid "Form Label"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:719
+msgid "Radio & Checkbox Label"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:729
+msgid "Sub Labels"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:741
+msgid "Input Fields"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:751
+msgid "Dropdown Fields"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:761
+msgid "Input Fields Description"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:771
+msgid "Invalid Input Fields"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:781
+msgid "Section"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:791, ../includes/Elements/WPForms/WPForms.php:1356
+msgid "Section Title"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:801, ../includes/Elements/WPForms/WPForms.php:1366
+msgid "Section Description"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:821
+msgid "Top Errors Message Box"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:831
+msgid "Top Errors Message Text"
+msgstr ""
+
+#: ../includes/Elements/GravityForm/GravityForm.php:841
+msgid "Invalid Error Message"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:62
+msgid "HTML Tag"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:98
+msgid "This text will be placed before the highlighted text."
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:109
+msgid "Highlighted Heading Text"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:110
+msgid "Highlighted"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:122
+msgid "This text will be placed after the highlighted text."
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:142
+msgid "Shape"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:147, ../includes/Elements/TableOfContents/TableOfContents.php:215
+msgid "Circle"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:151
+msgid "Curly"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:155
+msgid "Diagonal"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:159
+msgid "Double Underline"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:163
+msgid "Double Underline Bottom"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:167
+msgid "Strikethrough"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:171
+msgid "Underline"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:175
+msgid "Underline Zigzag"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:179
+msgid "Underline-Left to Right"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:183
+msgid "Underline-Right to Left"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:187
+msgid "Underline-Outwards"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:191
+msgid "Underline-Inwards"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:202
+msgid "Loop"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:228
+msgid "Appearance"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:233
+msgid "Slide In on Hover"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:237
+msgid "Slide Out on Hover"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:253
+msgid "Shape Color"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:279
+msgid "Shape Width"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:329
+msgid "Line Width"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:358
+msgid "Line Position"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:387
+msgid "Transition Duration for Line Shape"
+msgstr ""
+
+#: ../includes/Elements/HighlightedHeading/HighlightedHeading.php:433
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:70
+msgid "Before Image"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:87
+msgid "After Image"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:111, ../includes/Elements/SlidingMenu/SlidingMenu.php:680, ../includes/Elements/SlidingMenu/SlidingMenu.php:955, ../includes/Elements/ToggleContent/Content.php:100, ../includes/Elements/ToggleContent/Title.php:164
+msgid "Wrapper Width"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:137
+msgid "Image Hover Overlay Color"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:157
+msgid "Overlay Transition Duration"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:193
+msgid "Comparison Handle"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:201
+msgid "Move on Hover"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:211
+msgid "Orientation"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:230
+msgid "Circle Position (Top or Bottom)"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:255
+msgid "Circle Position (Left or Right)"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:280
+msgid "Initial Offset"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:293
+msgid "Handle Size"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:312
+msgid "Handle Color"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:327
+msgid "Shadow Color"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:348
+msgid "Circle and Arrows"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:356
+msgid "Disable Circle and Arrows"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:412
+msgid "Arrow Color"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:446
+msgid "Before Image Text"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:447, ../includes/WooElements/SaleOffer/SaleOffer.php:88
+msgid "Before"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:458
+msgid "After Image Text"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:459, ../includes/WooElements/SaleOffer/SaleOffer.php:97
+msgid "After"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:470
+msgid "Text Position (Vertically)"
+msgstr ""
+
+#: ../includes/Elements/ImageComparison/ImageComparison.php:493
+msgid "Background Color of Square Boxes"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:85
+msgid "Mask Shape"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:101, ../includes/Elements/ImageMask/ImageMask.php:109
+msgid "Repeat"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:105
+msgid "No Repeat"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:130, ../includes/Elements/Lightbox/Lightbox.php:354, ../includes/Elements/Lightbox/Lightbox.php:1100, ../includes/Elements/Lightbox/Lightbox.php:1183, ../includes/Elements/OffCanvas/OffCanvas.php:117, ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:71, ../includes/Elements/ReadMore/ReadMore.php:178, ../includes/Elements/ReadMore/ReadMore.php:241, ../includes/Elements/SlidingMenu/SlidingMenu.php:593, ../includes/WooElements/BuyNow/BuyNow.php:453, ../includes/WooElements/ContinueShopping/ContinueShopping.php:315, ../includes/WooElements/EmptyCart/EmptyCart.php:369
+msgid "Top"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:134, ../includes/Elements/Lightbox/Lightbox.php:378, ../includes/Elements/Lightbox/Lightbox.php:1117, ../includes/Elements/Lightbox/Lightbox.php:1200, ../includes/Elements/OffCanvas/OffCanvas.php:121, ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:75, ../includes/Elements/ReadMore/ReadMore.php:182, ../includes/Elements/ReadMore/ReadMore.php:245, ../includes/WooElements/BuyNow/BuyNow.php:457, ../includes/WooElements/ContinueShopping/ContinueShopping.php:319, ../includes/WooElements/EmptyCart/EmptyCart.php:373
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:138
+msgid "Center"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:167
+msgid "X Offset"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:202
+msgid "Y Offset"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:241
+msgid "Auto"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:245
+msgid "Contain"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:249
+msgid "Cover"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:270
+msgid "Set Size"
+msgstr ""
+
+#: ../includes/Elements/ImageMask/ImageMask.php:364, ../includes/Elements/ImageScroller/ImageScroller.php:231
+msgid "Image styles"
+msgstr ""
+
+#: ../includes/Elements/ImageScroller/ImageScroller.php:97
+msgid "Container Height"
+msgstr ""
+
+#: ../includes/Elements/ImageScroller/ImageScroller.php:98
+msgid "Select the desired height."
+msgstr ""
+
+#: ../includes/Elements/ImageScroller/ImageScroller.php:158
+msgid "Scroll Duration"
+msgstr ""
+
+#: ../includes/Elements/ImageScroller/ImageScroller.php:177
+msgid "Change Cursor"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:68
+msgid "Live preview is disabled for Builder Editor."
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:81
+msgid "Repeater Provider Selector"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:90
+msgid "Repeater Consumer Selector"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:99
+msgid "History"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:100
+msgid "Changes page URL and browser history. Default is disabled."
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:104
+msgid "Disabled"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:112
+msgid "Replace"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:123
+msgid "Extra Support"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:131
+msgid "isotope"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:135
+msgid "masonry"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:146
+msgid "Layout Mode"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:150
+msgid "Fit Rows"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:154
+msgid "Masonry"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:179
+msgid "Fade In"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:183
+msgid "Move Up"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:273
+msgid "Trigger Event Settings"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:282
+msgid "Add \"Load More\" Button?"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:283
+msgid "It enables a button to load content on click."
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:298
+msgid "Scroll Threshold"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:299
+msgid "trigger scrollThreshold event when viewport is < 50px from bottom of scroll area"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:313
+msgid "Button Source"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:317
+msgid "Inbuilt Button"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:321
+msgid "Create Custom Button"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:338, ../includes/WooElements/BuyNow/BuyNow.php:68, ../includes/WooElements/CartCounter/CartCounter.php:199, ../includes/WooElements/CartCounter/CartCounter.php:247, ../includes/WooElements/ContinueShopping/ContinueShopping.php:63, ../includes/WooElements/EmptyCart/EmptyCart.php:68, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:65
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:339, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:752
+msgid "Load More"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:361
+msgid "Icon for Button"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:382
+msgid "Enter Button Selector"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:383
+msgid ".view-more"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:404
+msgid "Hide button for builder editor only"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:424
+msgid "Custom Scroller Element Selector"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:426
+msgid "Ensure this container element has overflow set to auto and has a set height."
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:438
+msgid "Loading Spinner Settings"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:447
+msgid "Loading Spinner"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:451
+msgid "Ellipsis"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:455
+msgid "Ring"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:459
+msgid "Ripple"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:463
+msgid "Roller"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:467
+msgid "Roller 2"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:471
+msgid "Spinner"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:497, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:533
+msgid "Hide for builder editor only"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:498
+msgid "It will always show when \"no more content\" and \"load more\" button both are hidden."
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:514, ../includes/Elements/InfiniteScroll/InfiniteScroll.php:636
+msgid "Finished Message"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:523
+msgid "Display no more content text?"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:549
+msgid "Enter Text"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:550
+msgid "No more content to load"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:601
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:646
+msgid "Load More Button"
+msgstr ""
+
+#: ../includes/Elements/InfiniteScroll/InfiniteScroll.php:656
+msgid "Load More Button Icon"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:73
+msgid "Preview"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:77
+msgid "Open"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:81
+msgid "Close"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:85, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:223
+msgid "Hide"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:102
+msgid "Eventlistener"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:106
+msgid "click"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:110
+msgid "hover"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:121, ../includes/Elements/OffCanvas/OffCanvas.php:94
+msgid "Trigger Selector"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:122
+msgid "You can enter multiple selectors with comma."
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:133
+msgid "Disable Scroll"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:161
+msgid "Lightbox Container"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:221
+msgid "Align Items"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:245
+msgid "Justify Content"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:282
+msgid "Backdrop Options"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:290
+msgid "Disable backdrop"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:300
+msgid "Backdrop Color"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:314
+msgid "Close lightbox when clicking on the backdrop?"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:322
+msgid "no"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:337
+msgid "Close/FullScreen Button Options"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:345
+msgid "Close Button Position"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:450
+msgid "Close Button"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:454
+msgid "Inbuilt"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:504, ../includes/Elements/Lightbox/Lightbox.php:1034, ../includes/WooElements/BuyNow/BuyNow.php:305, ../includes/WooElements/CartCounter/CartCounter.php:605, ../includes/WooElements/ContinueShopping/ContinueShopping.php:170, ../includes/WooElements/EmptyCart/EmptyCart.php:224, ../includes/WooElements/YithCompare/YithCompare.php:210
+msgid "Hover Background"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:568
+msgid "Close Button Selector"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:569
+msgid "Enter ID or CSS class name."
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:599
+msgid "FullScreen Button"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:608
+msgid "Add FullScreen Button"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:710
+msgid "Slider Options"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:718
+msgid "Enable slider"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:728
+msgid "Are you using the repeater?"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:753
+msgid "Outer Container Selector"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:754
+msgid "Enter the CSS class name or ID"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:787
+msgid "Prev Button"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:788
+msgid "Prev"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:803
+msgid "Next Button"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:804
+msgid "Next"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:820, ../includes/Elements/Lightbox/Lightbox.php:841, ../includes/Elements/TableOfContents/TableOfContents.php:197, ../includes/Elements/TableOfContents/TableOfContents.php:412, ../includes/WooElements/AddToCart/AddToCart.php:214, ../includes/WooElements/AddToCart/AddToCart.php:243, ../includes/WooElements/AddToCart/AddToCart.php:271, ../includes/WooElements/AddToCart/AddToCart.php:299, ../includes/WooElements/BuyNow/BuyNow.php:396, ../includes/WooElements/CartCounter/CartCounter.php:215, ../includes/WooElements/ContinueShopping/ContinueShopping.php:258, ../includes/WooElements/EmptyCart/EmptyCart.php:312, ../includes/WooElements/YithCompare/YithCompare.php:293
+msgid "Icon"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:915
+msgid "Text Size"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:937, ../includes/Elements/SlidingMenu/SlidingMenu.php:697, ../includes/Elements/SlidingMenu/SlidingMenu.php:972, ../includes/Elements/TableOfContents/TableOfContents.php:430, ../includes/WooElements/AddToCart/AddToCart.php:351, ../includes/WooElements/RatingsGraph/RatingsGraph.php:117
+msgid "Icon Size"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:959
+msgid "Gap between Icon & Text"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1003
+msgid "Buttons Colors"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1085
+msgid "Previous Button Position"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1168
+msgid "Next Button Position"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1284, ../includes/WooElements/CartCounter/CartCounter.php:1148, ../includes/WooElements/MiniCart/MiniCart.php:124
+msgid "Duration"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1337
+msgid "Animations options"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1345
+msgid "Set the desired appear animation when the element becomes visible in the viewport."
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1346
+msgid "Appear animation"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1350
+msgid "Search animation"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1353, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:385, ../includes/Repeater/Providers/WPRelatedPosts.php:168
+msgid "none"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1358
+msgid "bounce"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1363
+msgid "pulse"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1368
+msgid "rubber Band"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1373
+msgid "shake"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1378
+msgid "head Shake"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1383
+msgid "swing"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1388
+msgid "tada"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1393
+msgid "wobble"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1398
+msgid "jello"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1403
+msgid "heart Beat"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1408
+msgid "bounce In"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1413
+msgid "bounce In Down"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1418
+msgid "bounce In Left"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1423
+msgid "bounce In Right"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1428
+msgid "bounce In Up"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1433
+msgid "fade In"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1438
+msgid "fade In Down"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1443
+msgid "fade In Down Big"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1448
+msgid "fade In Left"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1453
+msgid "fade In Right"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1458
+msgid "fade In Left Big"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1463
+msgid "fade In Up"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1468
+msgid "fade In Up Big"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1473
+msgid "light Speed In"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1478
+msgid "roll In"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1483
+msgid "zoom In"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1488
+msgid "zoom In Down"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1493
+msgid "zoom In Left"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1498
+msgid "zoom In Right"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1503
+msgid "zoom In Up"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1508
+msgid "slide In Down"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1513
+msgid "Slide In Left"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1518
+msgid "slide In Right"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1523
+msgid "slide In Up"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1535
+msgid "Set the desired appear animation duration (in miliseconds)."
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1536
+msgid "Appear duration"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1570
+msgid "Set the desired appear animation delay (in miliseconds)."
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1571
+msgid "Appear delay"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1638
+msgid "Lightbox Container Styles"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1646
+msgid "Icon Wrapper Styles"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1656
+msgid "Close Icon Styles"
+msgstr ""
+
+#: ../includes/Elements/Lightbox/Lightbox.php:1664
+msgid "Prev/Next Buttons Styles"
+msgstr ""
+
+#: ../includes/Elements/Lottie/Lottie.php:25
+msgid "Lottie"
+msgstr ""
+
+#: ../includes/Elements/Lottie/Lottie.php:48
+msgid "Source of Lottie File(JSON)"
+msgstr ""
+
+#: ../includes/Elements/Lottie/Lottie.php:52
+msgid "External Link"
+msgstr ""
+
+#: ../includes/Elements/Lottie/Lottie.php:56
+msgid "Self Hosted File"
+msgstr ""
+
+#: ../includes/Elements/Lottie/Lottie.php:67
+msgid "JSON File"
+msgstr ""
+
+#: ../includes/Elements/Lottie/Lottie.php:69
+msgid "Enter JSON file url"
+msgstr ""
+
+#: ../includes/Elements/Lottie/Lottie.php:86, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:397, ../includes/Repeater/Providers/WPRelatedPosts.php:180
+msgid "title"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:75
+msgid "Disable Builder Preview"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:105
+msgid "Panel Position"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:134
+msgid "Panel Height"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:168
+msgid "Disable Site Scroll"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:178
+msgid "Push Body Content"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:188
+msgid "Reveal Panel"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:189
+msgid "Panel will automatically slide out on page load."
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:222
+msgid "Backdrop"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:230
+msgid "Disable Backdrop"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:259
+msgid "Fade Duration"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:276
+msgid "Scrollbar"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:284
+msgid "Customize Scrollbar?"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:340
+msgid "Bar Alt Color"
+msgstr ""
+
+#: ../includes/Elements/OffCanvas/OffCanvas.php:474
+msgid "Off Canvas Panel"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:92
+msgid "Piotnet Form"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:93
+msgid "Make sure that you build at least one piotnet form."
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:108
+msgid "Form ID"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:145
+msgid "Dropdown Arrow"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:221, ../includes/WooElements/CartCounter/CartCounter.php:539
+msgid "Position Right"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:368
+msgid "Fields Label Icon"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:388
+msgid "Dropdown fields"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:398, ../includes/WooElements/BuyNow/BuyNow.php:84, ../includes/WooElements/EmptyCart/EmptyCart.php:84, ../includes/WooElements/YithCompare/YithCompare.php:106, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:81
+msgid "Button"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:418
+msgid "Icon Field"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:428
+msgid "Image Field Wrapper"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:438
+msgid "Image Field"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:448
+msgid "Image Caption"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:458
+msgid "Headings(Checkout Form)"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:468
+msgid "Fields Label(Checkout Form)"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:478
+msgid "Asterisk(Checkout Form)"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:488
+msgid "Input Fields(Checkout Form)"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:498
+msgid "Dropdown Fields(Checkout Form)"
+msgstr ""
+
+#: ../includes/Elements/PiotnetForm/PiotnetForm.php:508
+msgid "Place Order(Checkout Form)"
+msgstr ""
+
+#: ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:132
+msgid "Fill Color"
+msgstr ""
+
+#: ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:152
+msgid "Animation Speed"
+msgstr ""
+
+#: ../includes/Elements/ReadingProgressBar/ReadingProgressBar.php:167
+msgid "Z-Index"
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:51
+msgid "Do you want to display estimated post reading time in your WordPress blog posts? An estimated reading time encourages users to read a blog post instead of clicking away."
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:67, ../includes/Elements/ReadingTime/ReadingTime.php:142
+msgid "Prefix Label"
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:68
+msgid "This text appears before the reading time."
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:80, ../includes/Elements/ReadingTime/ReadingTime.php:152
+msgid "Suffix Label"
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:81
+msgid "This text appears after the reading time."
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:93
+msgid "Suffix Singular Label"
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:94
+msgid "This text appears after the reading time, when reading time is 1 minute."
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:106
+msgid "Words Per Minute"
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:107
+msgid "Default is 300, the average reading speed for adults."
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:119
+msgid "Include shortcodes in the reading time"
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:128
+msgid "Exclude images from the reading time"
+msgstr ""
+
+#: ../includes/Elements/ReadingTime/ReadingTime.php:213
+msgid "< 1"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:25
+msgid "Read More/Less"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:66
+msgid "Editing Content On Builder?"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:67
+msgid "You would enable it when you are updating the content"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:77
+msgid "More Link Text"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:78, ../includes/Elements/ReadMore/ReadMore.php:79, ../includes/WooElements/AddToCart/AddToCart.php:531
+msgid "Read More"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:90
+msgid "Less Link Text"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:91, ../includes/Elements/ReadMore/ReadMore.php:92
+msgid "Read Less"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:103
+msgid "Disable Less Button"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:118
+msgid "Height (collapsed state)"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:145
+msgid "Icon for More Button"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:208
+msgid "Icon for Less Button"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:262
+msgid "Typography of More/Less Text"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:272
+msgid "More Text Color"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:302
+msgid "Less Text Color"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:343
+msgid "More / Less Button Wrapper"
+msgstr ""
+
+#: ../includes/Elements/ReadMore/ReadMore.php:353
+msgid "More / Less Button Icon"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:386
+msgid "Background Color for Sub Menu Wrapper"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:387
+msgid "You will setup it when auto height is disabled."
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:416
+msgid "Links Color"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:529, ../includes/Elements/TableOfContents/TableOfContents.php:569
+msgid "Active Border Color"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:562
+msgid "Sliding Effect"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:574
+msgid "Overlay"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:612
+msgid "Auto height"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:627, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:522
+msgid "Transition Duration for Slide"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:716, ../includes/Elements/SlidingMenu/SlidingMenu.php:991
+msgid "Default State"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:739, ../includes/Elements/SlidingMenu/SlidingMenu.php:815, ../includes/Elements/SlidingMenu/SlidingMenu.php:876, ../includes/Elements/SlidingMenu/SlidingMenu.php:1014, ../includes/Elements/SlidingMenu/SlidingMenu.php:1087, ../includes/Elements/TableOfContents/TableOfContents.php:452, ../includes/WooElements/AddToCart/AddToCart.php:364
+msgid "Icon Color"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:792, ../includes/Elements/SlidingMenu/SlidingMenu.php:1065
+msgid "Hover State"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:848
+msgid "Active State"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:918
+msgid "Back Button"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:926
+msgid "Back Text"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:927
+msgid "Back"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:928
+msgid "This text will show if a menu item has not title. It will work as a placeholder text."
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:999, ../includes/Elements/SlidingMenu/SlidingMenu.php:1073
+msgid "Arrow Background Color"
+msgstr ""
+
+#: ../includes/Elements/SlidingMenu/SlidingMenu.php:1208
+msgid "Back Title"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:25
+msgid "Table of Contents"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:52
+msgid "Content Selector"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:54
+msgid "Where to grab the headings to build the table of contents."
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:62
+msgid "Heading Selector"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:64
+msgid "Which headings to grab inside of the content selector element."
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:72
+msgid "Ignore Selector"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:74
+msgid "Headings that match the ignore selector will be skipped."
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:86
+msgid "Collapse Depth for Sub Items"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:88
+msgid "How many heading levels should not be collapsed. For example, number 6 will show everything since there are only 6 heading levels and number 0 will collapse them all. The sections that are hidden will open and close as you scroll to headings within them."
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:99
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:108
+msgid "Enable the smooth scrolling effect?"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:135
+msgid "Smooth Scroll Offset"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:148
+msgid "Headings Offset"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:149
+msgid "To handle fixed headers with toc, just pass the header offsets as options to toc. For example, the options needed for a 40px tall fixed header would be 40. Default value is 1."
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:161
+msgid "List Items"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:175
+msgid "Sub Items Indent"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:190
+msgid "List Type Style"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:193
+msgid "Counter"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:201
+msgid "Only Text"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:219
+msgid "Decimal"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:223
+msgid "Decimal - Leading Zero"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:227
+msgid "Disc"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:231
+msgid "Upper Alpha"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:235
+msgid "Lower Alpha"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:239
+msgid "Upper Roman"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:243
+msgid "Lower Roman"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:252
+msgid "Enable Parent Counter?"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:277
+msgid "Parent Counter Separator"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:302
+msgid "Counter Separator"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:323
+msgid "List Type for Top Level"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:345
+msgid "List Type for 2nd Level"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:367
+msgid "List Type for 3rd Level"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:389
+msgid "List Type for 4th Level"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:473, ../includes/WooElements/AddToCart/AddToCart.php:379
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:498
+msgid "Space between icon and text"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:529
+msgid "Enable Vertical Line Indicator?"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:627
+msgid "Initial Li Tags"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:637
+msgid "Active Li Tag"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:647
+msgid "List Item Links"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:657
+msgid "Active Item Link"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:667
+msgid "Top Level Items(H2)"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:677
+msgid "2nd Level Items(H3)"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:687
+msgid "3rd Level Items(H4)"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:697
+msgid "4th Level Items(H5)"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:707
+msgid "5th Level Items(H6)"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:717
+msgid "Counters"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:727, ../includes/WooElements/AddToCart/AddToCart.php:312
+msgid "Icon Styles"
+msgstr ""
+
+#: ../includes/Elements/TableOfContents/TableOfContents.php:753
+msgid "Nothing found"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Content.php:50
+msgid "Builder Preview"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Content.php:55
+msgid "Expand"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Content.php:59
+msgid "Collapse"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Content.php:83
+msgid "Sliding Speed"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Title.php:50
+msgid "Active by default?"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Title.php:100, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:283, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:324
+msgid "Default"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Title.php:109, ../includes/WooElements/CartCounter/CartCounter.php:134
+msgid "Hover"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Title.php:119
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Title.php:134
+msgid "Active BG Color"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Title.php:149
+msgid "Active Text Color"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/Title.php:217
+msgid "Hover Transition Duration"
+msgstr ""
+
+#: ../includes/Elements/ToggleContent/ToggleButton.php:24
+msgid "Toggle Button"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:92
+msgid "Select WP Form"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:93
+msgid "Make sure that you build at least one wpform."
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:181
+msgid "Asterisk Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:196
+msgid "Asterisk Size"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:213
+msgid "File Upload Field Icon Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:494, ../includes/Elements/WPForms/WPForms.php:826
+msgid "Label Typography"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:507
+msgid "Rating"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:520, ../includes/WooElements/RatingsGraph/RatingsGraph.php:397
+msgid "Stars Size"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:572
+msgid "Selected Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:596
+msgid "Default Opacity"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:615
+msgid "Opacity for Hover/Selected State"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:638
+msgid "Hover Transform Scale"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:668
+msgid "Image Checkboxes"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:690
+msgid "Hover and Selected Background Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:796
+msgid "Hover and Selected Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:815
+msgid "Wrapper Padding"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:841
+msgid "Page Break"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:915
+msgid "Circles"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:929, ../includes/WooElements/CartCounter/CartCounter.php:559
+msgid "Circle Size"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:955
+msgid "Page Number Size"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:969
+msgid "Circle Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:999
+msgid "Current Circle Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1013
+msgid "Current Number Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1031
+msgid "Connector"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1074
+msgid "Current Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1097
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1107
+msgid "Current Title Color"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1141
+msgid "Total Price"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1266
+msgid "Field Label"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1276
+msgid "Field Sub Label"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1286
+msgid "Field Description"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1296
+msgid "Input Field"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1306
+msgid "Dropdown Field"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1316
+msgid "File Upload Field"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1336
+msgid "Prev/Next Buttons"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1346
+msgid "Section Divider Wrapper"
+msgstr ""
+
+#: ../includes/Elements/WPForms/WPForms.php:1376
+msgid "Validation Error"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:13
+msgid "Extended Query Builder"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:102, ../includes/Repeater/Providers/WPRelatedPosts.php:113
+msgid "Post type"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:105, ../includes/Repeater/Providers/WPRelatedPosts.php:116
+msgid "Select post types"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:114
+msgid "Post Status"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:118
+msgid "publish"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:122
+msgid "pending"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:126
+msgid "draft"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:130
+msgid "future"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:134
+msgid "private"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:138
+msgid "any"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:143
+msgid "Select post status"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:160, ../includes/Repeater/Providers/WPRelatedPosts.php:145
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:170
+msgid "Show All Posts"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:180
+msgid "Posts per page"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:210
+msgid "Include/Exclude Posts"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:218
+msgid "Include"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:222
+msgid "Exclude"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:233
+msgid "Include Specific Posts"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:234, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:249, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:352, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:367
+msgid " Enter ids with comma like 2,34,56"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:248
+msgid "Exclude Specific Posts"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:263
+msgid "Exclude Current Post"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:279
+msgid "Child/Parent of Post/Page"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:287
+msgid "Only top-level entries"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:291
+msgid "Child of current post/page"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:295
+msgid "Child of specific post/page"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:306
+msgid "Parent Post/Page ID"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:320
+msgid "Author"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:328
+msgid "Author of current post"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:332
+msgid "Author page"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:336
+msgid "Include specific authors"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:340
+msgid "Exclude specific authors"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:351, ../includes/Repeater/Providers/ExtendedQueryBuilder.php:366
+msgid "Author IDs"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:389, ../includes/Repeater/Providers/WPRelatedPosts.php:172
+msgid "ID"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:393, ../includes/Repeater/Providers/WPRelatedPosts.php:176
+msgid "author"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:401, ../includes/Repeater/Providers/WPRelatedPosts.php:184
+msgid "name"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:405, ../includes/Repeater/Providers/WPRelatedPosts.php:188
+msgid "type"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:409, ../includes/Repeater/Providers/WPRelatedPosts.php:192
+msgid "date"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:413, ../includes/Repeater/Providers/WPRelatedPosts.php:196
+msgid "Modified date"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:417, ../includes/Repeater/Providers/WPRelatedPosts.php:200
+msgid "parent"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:421, ../includes/Repeater/Providers/WCFeaturedProducts.php:177, ../includes/Repeater/Providers/WCOnSaleProducts.php:175, ../includes/Repeater/Providers/WPRelatedPosts.php:204
+msgid "Random"
+msgstr ""
+
+#: ../includes/Repeater/Providers/ExtendedQueryBuilder.php:425, ../includes/Repeater/Providers/WPRelatedPosts.php:208
+msgid "Comment count"
+msgstr ""
+
+#: ../includes/Repeater/Providers/UltimateQueryBuilder.php:13
+msgid "Ultimate Query Builder"
+msgstr ""
+
+#: ../includes/Repeater/Providers/UltimateQueryBuilder.php:53
+msgid "WP Query Arguments"
+msgstr ""
+
+#: ../includes/Repeater/Providers/UltimateQueryBuilder.php:54
+msgid "You will enter the query arguments in array format for WP_Query class."
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:13
+msgid "Best Selling Products"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:104, ../includes/Repeater/Providers/WCFeaturedProducts.php:66, ../includes/Repeater/Providers/WCOnSaleProducts.php:64, ../includes/Repeater/Providers/WCRecentlyViewed.php:86, ../includes/Repeater/Providers/WCRelatedProducts.php:63, ../includes/Repeater/Providers/WCTopRatedProducts.php:71, ../includes/Repeater/Providers/WPRelatedPosts.php:155
+msgid "Number of products to show"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:113, ../includes/Repeater/Providers/WCFeaturedProducts.php:75, ../includes/Repeater/Providers/WCOnSaleProducts.php:73, ../includes/Repeater/Providers/WCTopRatedProducts.php:80
+msgid "Category(IDs)"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:114, ../includes/Repeater/Providers/WCFeaturedProducts.php:76, ../includes/Repeater/Providers/WCOnSaleProducts.php:74, ../includes/Repeater/Providers/WCTopRatedProducts.php:81
+msgid "Comma separated category ids"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:122, ../includes/Repeater/Providers/WCFeaturedProducts.php:84, ../includes/Repeater/Providers/WCOnSaleProducts.php:82, ../includes/Repeater/Providers/WCTopRatedProducts.php:89
+msgid "Category Operator"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:123, ../includes/Repeater/Providers/WCFeaturedProducts.php:85, ../includes/Repeater/Providers/WCOnSaleProducts.php:83, ../includes/Repeater/Providers/WCTopRatedProducts.php:90
+msgid "Operator to compare categories"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:127, ../includes/Repeater/Providers/WCFeaturedProducts.php:89, ../includes/Repeater/Providers/WCOnSaleProducts.php:87, ../includes/Repeater/Providers/WCTopRatedProducts.php:94
+msgid "IN"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:131, ../includes/Repeater/Providers/WCFeaturedProducts.php:93, ../includes/Repeater/Providers/WCOnSaleProducts.php:91, ../includes/Repeater/Providers/WCTopRatedProducts.php:98
+msgid "AND"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:135
+msgid "NOT IN"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:146, ../includes/Repeater/Providers/WCFeaturedProducts.php:104, ../includes/Repeater/Providers/WCOnSaleProducts.php:102, ../includes/Repeater/Providers/WCRecentlyViewed.php:96
+msgid "Hide out of stock items"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:165, ../includes/Repeater/Providers/WCFeaturedProducts.php:123, ../includes/Repeater/Providers/WCOnSaleProducts.php:121
+msgid "Show hidden products"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCBestSellingProducts.php:184, ../includes/Repeater/Providers/WCFeaturedProducts.php:142, ../includes/Repeater/Providers/WCOnSaleProducts.php:140
+msgid "Hide free products"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCFeaturedProducts.php:14
+msgid "Featured Products"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCFeaturedProducts.php:169, ../includes/Repeater/Providers/WCOnSaleProducts.php:167
+msgid "Date"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCFeaturedProducts.php:181, ../includes/Repeater/Providers/WCOnSaleProducts.php:179
+msgid "Sales"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCFeaturedProducts.php:191, ../includes/Repeater/Providers/WCOnSaleProducts.php:189, ../includes/Repeater/Providers/WCRelatedProducts.php:71
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCOnSaleProducts.php:14
+msgid "On-sale Products"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCRecentlyViewed.php:14
+msgid "Recently Viewed Products list"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCRelatedProducts.php:13
+msgid "Related Products"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WCTopRatedProducts.php:13
+msgid "Top Rated Products"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WPRelatedPosts.php:13
+msgid "Related Posts (ZU)"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WPRelatedPosts.php:93
+msgid "Pick up posts from"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WPRelatedPosts.php:99
+msgid "Current Post Taxonomies"
+msgstr ""
+
+#: ../includes/Repeater/Providers/WPRelatedPosts.php:103
+msgid "Select a Taxonomy"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:77
+msgid "Using in the product query loop?"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:87, ../includes/WooElements/RatingsGraph/RatingsGraph.php:48, ../includes/WooElements/ReviewRatings/ReviewRatings.php:66, ../includes/WooElements/SaleOffer/SaleOffer.php:106, ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:48, ../includes/WooElements/YithCompare/YithCompare.php:53, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:53
+msgid "Product ID"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:88, ../includes/WooElements/RatingsGraph/RatingsGraph.php:49, ../includes/WooElements/ReviewRatings/ReviewRatings.php:67
+msgid "Keep it empty if you are using on single product page."
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:105
+msgid "Do AJAX Add To Cart Action?"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:121, ../includes/WooElements/CartPage/CartPage.php:143, ../includes/WooElements/EmptyCart/EmptyCart.php:137
+msgid "Redirect URL"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:122
+msgid "The visitor will redirect to this URL after adding the product."
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:141
+msgid "Remove Price?"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:157
+msgid "Remove Stock Message?"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:176, ../includes/WooElements/MiniCart/MiniCart.php:142
+msgid "Quantity Field"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:188
+msgid "Button Text & Icon"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:196
+msgid "Add To Cart Text"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:215, ../includes/WooElements/AddToCart/AddToCart.php:244, ../includes/WooElements/AddToCart/AddToCart.php:272, ../includes/WooElements/AddToCart/AddToCart.php:300, ../includes/WooElements/BuyNow/BuyNow.php:397, ../includes/WooElements/ContinueShopping/ContinueShopping.php:259, ../includes/WooElements/EmptyCart/EmptyCart.php:313, ../includes/WooElements/YithCompare/YithCompare.php:294
+msgid "Choose an icon"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:224
+msgid "Select Options Text"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:252
+msgid "Read More Text"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:280
+msgid "View Products Text"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:321
+msgid "Icon position"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:324
+msgid "Icon on left"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:328
+msgid "Icon on right"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:399
+msgid "Gap Between Icon and Text"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:431
+msgid "Strick Through Price"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:439, ../includes/WooElements/MiniCart/MiniCart.php:915
+msgid "Buttons"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:447
+msgid "View Cart Button"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:455
+msgid "Clear Button"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:463
+msgid "Variation Label"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:471
+msgid "Variation Description"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:479
+msgid "Variation Price"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:487
+msgid "Variation Dropdown"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:495
+msgid "Stock Message"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:529
+msgid "Add To cart"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:530
+msgid "Select Options"
+msgstr ""
+
+#: ../includes/WooElements/AddToCart/AddToCart.php:532
+msgid "View Products"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:80, ../includes/WooElements/EmptyCart/EmptyCart.php:80, ../includes/WooElements/YithCompare/YithCompare.php:69, ../includes/WooElements/YithCompare/YithCompare.php:102, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:77
+msgid "Link or Button"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:88, ../includes/WooElements/BuyNow/BuyNow.php:148, ../includes/WooElements/CartCounter/CartCounter.php:116, ../includes/WooElements/ContinueShopping/ContinueShopping.php:94, ../includes/WooElements/EmptyCart/EmptyCart.php:88, ../includes/WooElements/EmptyCart/EmptyCart.php:148, ../includes/WooElements/YithCompare/YithCompare.php:110, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:85
+msgid "Link"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:99, ../includes/WooElements/EmptyCart/EmptyCart.php:99
+msgid "Rel"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:108, ../includes/WooElements/EmptyCart/EmptyCart.php:108
+msgid "nofollow"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:112, ../includes/WooElements/EmptyCart/EmptyCart.php:112
+msgid "noopener"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:116, ../includes/WooElements/EmptyCart/EmptyCart.php:116
+msgid "noreferrer"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:127, ../includes/WooElements/EmptyCart/EmptyCart.php:127
+msgid "Redirection"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:128
+msgid "Redirect the customer after adding the product to cart."
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:133
+msgid "Checkout Page"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:137
+msgid "Redirect to Custom URL"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:163
+msgid "Using inside the repeater?"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:182
+msgid "Merge with the existing cart items?"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:201, ../includes/WooElements/YithCompare/YithCompare.php:121, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:96
+msgid "Disable button for these products"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:202, ../includes/WooElements/YithCompare/YithCompare.php:122, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:97
+msgid "Enter product ids with comma"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:213, ../includes/WooElements/YithCompare/YithCompare.php:133, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:108
+msgid "Disable button for these product types"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:214, ../includes/WooElements/YithCompare/YithCompare.php:134, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:109
+msgid "You can select multiple product types"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:244, ../includes/WooElements/ContinueShopping/ContinueShopping.php:109, ../includes/WooElements/EmptyCart/EmptyCart.php:163
+msgid "Button Styling"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:325, ../includes/WooElements/ContinueShopping/ContinueShopping.php:190, ../includes/WooElements/EmptyCart/EmptyCart.php:244, ../includes/WooElements/YithCompare/YithCompare.php:230
+msgid "Text Hover Color"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:388, ../includes/WooElements/CartCounter/CartCounter.php:322, ../includes/WooElements/ContinueShopping/ContinueShopping.php:250, ../includes/WooElements/EmptyCart/EmptyCart.php:304
+msgid "Icon Settings"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:544, ../includes/WooElements/CartCounter/CartCounter.php:1185, ../includes/WooElements/ContinueShopping/ContinueShopping.php:365, ../includes/WooElements/EmptyCart/EmptyCart.php:419, ../includes/WooElements/YithCompare/YithCompare.php:455
+msgid "Button styles"
+msgstr ""
+
+#: ../includes/WooElements/BuyNow/BuyNow.php:552, ../includes/WooElements/CartCounter/CartCounter.php:1212, ../includes/WooElements/ContinueShopping/ContinueShopping.php:374, ../includes/WooElements/EmptyCart/EmptyCart.php:429, ../includes/WooElements/YithCompare/YithCompare.php:465
+msgid "Icon styles"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:73
+msgid "Hide button when cart is empty?"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:74
+msgid "It only works at frontend. Editor always show the button."
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:93
+msgid "Call To Action"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:100
+msgid "Show Dropdown(on hover/click)"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:104
+msgid "Link to URL"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:115
+msgid "Set the url"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:131
+msgid "Show Dropdown On"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:138
+msgid "Click"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:176
+msgid "Enter integer value. Default is 0"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:219
+msgid "Icon + Text"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:230
+msgid "Text Settings"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:306, ../includes/WooElements/CartCounter/CartCounter.php:586, ../includes/WooElements/CartCounter/CartCounter.php:772, ../includes/WooElements/MiniCart/MiniCart.php:596
+msgid "Font Size"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:452
+msgid "Display Cart Counter?"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:470
+msgid "Show in bubble?"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:515
+msgid "Default is 5px"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:540
+msgid "Default is -4px"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:648
+msgid "Cart Price"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:657
+msgid "Show Price"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:697, ../includes/WooElements/CartCounter/CartCounter.php:735
+msgid "Default value is 6px"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:807
+msgid "Dropdown Box"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:821
+msgid "Check Preview on Builder?"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:840
+msgid "Hide dropdown when cart is empty"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:862
+msgid "Default width is 300px. You will adjust it on breakpoints."
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:971, ../includes/WooElements/ReviewRatings/ReviewRatings.php:207
+msgid "Spacing"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:981
+msgid "Choose the desired padding for this element."
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1015
+msgid "Box Shadow Options"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1024
+msgid "Box Shadow"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1025
+msgid "Set the desired box shadow."
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1035
+msgid "Fade Animation"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1053
+msgid "Position before transition"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1054
+msgid "When box is hidden. Bottom position is -30px."
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1072
+msgid "Position after transition"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1073
+msgid "When box will show on hover or click. Bottom position is 0px."
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1101
+msgid "Reveal Dropdown"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1110
+msgid "Enable Reveal Effect?"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1111
+msgid "Dropdown popup when a product added to cart."
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1194
+msgid "Counter styles"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1203
+msgid "Text styles"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1221
+msgid "Price styles"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1231
+msgid "Dropdown Box styles"
+msgstr ""
+
+#: ../includes/WooElements/CartCounter/CartCounter.php:1289
+msgid "Cart"
+msgstr ""
+
+#: ../includes/WooElements/CartItems/CartItems.php:25
+msgid "Cart Items"
+msgstr ""
+
+#: ../includes/WooElements/CartPage/CartPage.php:25
+msgid "Cart Builder"
+msgstr ""
+
+#: ../includes/WooElements/CartPage/CartPage.php:79, ../includes/WooElements/SaleOffer/SaleOffer.php:119
+msgid "Select the HTML tag to use for this element. If you want to add a custom tag, make sure to only use letters and numbers"
+msgstr ""
+
+#: ../includes/WooElements/CartPage/CartPage.php:144
+msgid "Empty cart page will redirect to this selected URL."
+msgstr ""
+
+#: ../includes/WooElements/ContinueShopping/ContinueShopping.php:54
+msgid "Note:"
+msgstr ""
+
+#: ../includes/WooElements/ContinueShopping/ContinueShopping.php:55
+msgid "Enter the CSS class name or ID of this element in the off-canvas's selector field and panel will close after clicking on this button."
+msgstr ""
+
+#: ../includes/WooElements/ContinueShopping/ContinueShopping.php:64
+msgid "Keep Shopping"
+msgstr ""
+
+#: ../includes/WooElements/ContinueShopping/ContinueShopping.php:75
+msgid "Button Action"
+msgstr ""
+
+#: ../includes/WooElements/ContinueShopping/ContinueShopping.php:83
+msgid "Redirect to URL"
+msgstr ""
+
+#: ../includes/WooElements/EmptyCart/EmptyCart.php:128
+msgid "Redirect the customer after clearing the cart."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:51
+msgid "Message Type"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:55
+msgid "Minimum Amount"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:59
+msgid "Cart Quantity"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:73
+msgid "Minimum Order Amount"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:74
+msgid "Do not enter the currency. Minimum order amount to encourage users to purchase more."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:89
+msgid "Threshold Amount"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:91
+msgid "Threshold amount after which notice should start appear."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:105, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:184
+msgid "Enter Your Message"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:120
+msgid "Exclude Coupons Amount"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:136
+msgid "Will price update automatically?"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:153
+msgid "Required Quantity"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:168
+msgid "Threshold Quantity"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:170
+msgid "Set here the minimum product quantity to show the notice."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:199
+msgid "Will quantity update automatically?"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:215
+msgid "Action"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:216
+msgid "when set amount/quantity is reached."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:219, ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:591
+msgid "Confirmation Message"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:236
+msgid "Enter Confirmation Message"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:250
+msgid "Outer Wrapper Selector"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:251
+msgid "Setup when you will put this component into another wrapper."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:259
+msgid "Custom Button Selector"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:260
+msgid "Setup when you will use the custom button or link."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:280
+msgid "Enable Progress Bar?"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:290
+msgid "Display Min/Max Value?"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:291
+msgid "Price or quantity value will show at left and right side of the progress bar."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:301
+msgid "Hide it?"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:302
+msgid "When set amount/quantity is reached."
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:422, ../includes/WooElements/MiniCart/MiniCart.php:359
+msgid "Style"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:430, ../includes/WooElements/MiniCart/MiniCart.php:368
+msgid "Solid"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:434, ../includes/WooElements/MiniCart/MiniCart.php:376
+msgid "Dashed"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:438, ../includes/WooElements/MiniCart/MiniCart.php:372
+msgid "Dotted"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:494
+msgid "Enable Animation?"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:509
+msgid "Transition Duration for Fade"
+msgstr ""
+
+#: ../includes/WooElements/FreeShippingNotice/FreeShippingNotice.php:599
+msgid "Progress Bar Min/Max Value"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:64
+msgid "Using inside the off-canvas element?"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:83
+msgid "Slide out the off-canvas panel?"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:84
+msgid "Off-canvas panel will automatically slide out when a product added to cart."
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:150
+msgid "Show quantity field with -/+ button?"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:231
+msgid "Add space between buttons & quantity field?"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:264
+msgid "Space between buttons & quantity field"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:292
+msgid "Borders"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:380
+msgid "Double"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:407
+msgid "Plus Minus Buttons"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:550
+msgid "Qty Input Field"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:615
+msgid "Alert Message"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:623
+msgid "Show alert message?"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:649
+msgid "Add Notice"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:650
+msgid "Item added successfully"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:664
+msgid "Update Notice"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:665
+msgid "Item updated successfully"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:679
+msgid "Delete Notice"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:680
+msgid "Item removed successfully"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:694
+msgid "Wrong Quantity Entering"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:695
+msgid "You entered wrong value"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:709
+msgid "Meet Max Quantity Limit"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:710
+msgid "No more products on stock"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:754
+msgid "Timeout after"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:795
+msgid "Inner Content"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:805
+msgid "Product Rows"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:815
+msgid "Image Styles"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:825
+msgid "Title Styles"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:835
+msgid "Quantity Text Styles"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:845
+msgid "Price Styles"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:855
+msgid "2nd Price Styles"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:865
+msgid "Remove Button Styles"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:875
+msgid "Subtotal Wrapper"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:885
+msgid "Subtotal Text"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:895
+msgid "Subtotal Price"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:905
+msgid "Buttons Outer Wrapper"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:925
+msgid "Checkout Button"
+msgstr ""
+
+#: ../includes/WooElements/MiniCart/MiniCart.php:935
+msgid "Alert Box"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:60
+msgid "Labels"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:69
+msgid "Label Type"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:73
+msgid "Star Text"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:77
+msgid "Num + Star Icon"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:81
+msgid "Star Icons"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:85
+msgid "Custom Text"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:138
+msgid "Excellent"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:153
+msgid "Good"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:168
+msgid "Average"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:183
+msgid "Not Bad"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:198
+msgid "Very Poor"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:242
+msgid "Indicator Type"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:246
+msgid "Bar"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:250
+msgid "Star"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:260
+msgid "Primary Color"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:280
+msgid "Secondary Color"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:343, ../includes/WooElements/ReviewRatings/ReviewRatings.php:155
+msgid "Empty Stars Color"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:363, ../includes/WooElements/ReviewRatings/ReviewRatings.php:169
+msgid "Filled Stars Color"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:421
+msgid "Gap Between Rows"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:439
+msgid "Rating Points"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:448
+msgid "Disable Rating Points?"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:467, ../includes/WooElements/SaleOffer/SaleOffer.php:44
+msgid "Percentage"
+msgstr ""
+
+#: ../includes/WooElements/RatingsGraph/RatingsGraph.php:587
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:79
+msgid "Hide if number of reviews is less than"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:94
+msgid "Average Rating Points"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:102
+msgid "Display Rating Points?"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:124
+msgid "Typography of Rating Points"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:138
+msgid "Stars"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:146
+msgid "Display Stars?"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:222
+msgid "Total Reviews"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:230
+msgid "Display Total Reviews?"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:252
+msgid "Typography of Total Number"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:282
+msgid "Average Ratings Text"
+msgstr ""
+
+#: ../includes/WooElements/ReviewRatings/ReviewRatings.php:290
+msgid "Total Reviews Text"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:23
+msgid "Sales Offer"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:40
+msgid "Calculate"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:48
+msgid "Fixed Rate"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:59
+msgid "Math Logic"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:63
+msgid "Ceil"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:67
+msgid "Floor"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:71
+msgid "Round"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:89
+msgid "Enter before text"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:98
+msgid "Enter after text"
+msgstr ""
+
+#: ../includes/WooElements/SaleOffer/SaleOffer.php:107
+msgid "Leave it blank if you are using on single product page or repeater."
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:24
+msgid "Tabs In Accordion"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:49
+msgid "Keep it empty if you are using on single product page or query builder."
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:60
+msgid "Expanding First Item on Page Load?"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:70
+msgid "Remove Description Tab?"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:80
+msgid "Remove Additional Information Tab?"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:90
+msgid "Remove Reviews Tab?"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:117
+msgid "ACF Repeater Content"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:151
+msgid "Content Field Name"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:211
+msgid "Rotate - Active State"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:268
+msgid "Title for Active State"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:276
+msgid "Content Style"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:284
+msgid "Content Style for Active State"
+msgstr ""
+
+#: ../includes/WooElements/TabsInAccordion/TabsInAccordion.php:300
+msgid "Icon Style for Active State"
+msgstr ""
+
+#: ../includes/WooElements/YithCompare/YithCompare.php:54, ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:54
+msgid "Leave empty if putting on single product page or repeater."
+msgstr ""
+
+#: ../includes/WooElements/YithCompare/YithCompare.php:73
+msgid "Icon with Tooltip"
+msgstr ""
+
+#: ../includes/WooElements/YithCompare/YithCompare.php:85
+msgid "Compare"
+msgstr ""
+
+#: ../includes/WooElements/YithCompare/YithCompare.php:284
+msgid "Icon Options"
+msgstr ""
+
+#: ../includes/WooElements/YithCompare/YithCompare.php:348
+msgid "right"
+msgstr ""
+
+#: ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:29
+msgid "Yith Wishlist Add Button"
+msgstr ""
+
+#: ../includes/WooElements/YithWishlistAddButton/YithWishlistAddButton.php:66
+msgid "Add to wishlist"
+msgstr ""
