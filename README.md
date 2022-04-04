@@ -6,30 +6,30 @@ Below are listed the core competencies
 
 General Elements
 ----------------
-* Accordion Menu(pro)
+* Accordion Menu **(pro)**
 * Animated Burger
 * Animated Heading
 * Back To Top Button
 * Breadcrumbs
 * Contact Form 7 Styler
-* Dynamic Tabs(pro)
+* Dynamic Tabs **(pro)**
 * Fluent Form Styler
 * Gravity Form Styler
 * Highlighted Heading
 * Image Comparison
 * Image Mask
-* Image Scroller(pro)
+* Image Scroller **(pro)**
 * Infinite Scroll
 * Lightbox
-* Off Canvas(pro)
-* Piotnet Forms Styler(pro)
-* Read More/Less(pro)
+* Off Canvas **(pro)**
+* Piotnet Forms Styler **(pro)**
+* Read More/Less **(pro)**
 * Reading Time
 * Reading Progress Bar
-* Sliding Menu(pro)
+* Sliding Menu **(pro)**
 * Table Of Contents
-* Toggle Content(pro)
-* WPForms Styler(pro)
+* Toggle Content **(pro)**
+* WPForms Styler **(pro)**
 
 
 WooCommerce Elements (pro)
