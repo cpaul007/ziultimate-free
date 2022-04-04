@@ -1,0 +1,19 @@
+.znpb-element-box--zu_animated_heading svg:not(.zion-pin),
+.znpb-element-box--zu_toc svg:not(.zion-pin),
+.znpb-element-box--zu_burger svg:not(.zion-pin),
+.znpb-element-box--zu_dynamic_tabs svg:not(.zion-pin),
+.znpb-element-box--zu_highlighted_heading svg:not(.zion-pin),
+.znpb-element-box--zu_img_comparison svg:not(.zion-pin),
+.znpb-element-box--zu_infinite_scroll svg:not(.zion-pin),
+.znpb-element-box--zu_back_to_top svg:not(.zion-pin),
+.znpb-element-box--zu_off_canvas svg:not(.zion-pin),
+.znpb-element-box--zu_tabs_in_acrd svg:not(.zion-pin),
+.znpb-element-box--zu_free_shipping_notice svg:not(.zion-pin),
+.znpb-element-box--zu_lightbox svg:not(.zion-pin),
+.znpb-element-box--zu_compare svg:not(.zion-pin),
+.znpb-element-box--zu_sale_offer svg:not(.zion-pin),
+.znpb-element-box--zu_breadcrumbs svg:not(.zion-pin),
+.znpb-element-box--zu_review_date svg:not(.zion-pin),
+.znpb-element-box--zu_mini_cart svg:not(.zion-pin) {
+	font-size: 20px!important;
+}
