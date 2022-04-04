@@ -59,6 +59,10 @@ WooCommerce Custom Repeater Providers (pro)
 * Ultimate Query Builder
 
 
+# Activate Plugin with License Key
+
+**KEY** :  e7584764e247c35f655364f080f4f146
+
 
 Documentation and Support
 ----------------
