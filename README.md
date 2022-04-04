@@ -68,28 +68,36 @@ For documentation and tutorials visit our [site](https://ziultimate.com)
 
 ## Frequently Asked Questions
 
-= What are the minimum requirements for ZiUltimate? =
+1. What are the minimum requirements for ZiUltimate?
+
 This plugin requires Zion Builder to function correctly.
 
-= Can I use it on my clients’ websites? =
+2. Can I use it on my clients’ websites?
+
 Absolutely! You can definitely use it on your as well as your client’s websites. Your clients do not need to purchase their own copy of ZiUltimate.
 
-= Do you offer refunds? =
+3. Do you offer refunds?
+
 Yes. You can request a refund within 7 days of purchase. We shall process the refund action if you find that plugin is not working as it was described or you are not getting any help from our support team.
 
-= How many sites can I use ZiUltimate on? =
+4. How many sites can I use ZiUltimate on?
+
 There are no limits. You can use it on an unlimited number of sites.
 
-= Do you offer a discount on renewals? =
+5. Do you offer a discount on renewals?
+
 No. There has no renewal discount option for the Basic plan.
 
-= What payment methods do you accept? =
+6. What payment methods do you accept?
+
 We accept payment securely via PayPal or Stripe.
 
-= Will ZiUltimate stop working after my license expires? =
+7. Will ZiUltimate stop working after my license expires?
+
 No. You can use it as long as you wish to. You will not get the support and update option from us.
 
-= Will the license renew automatically? =
+8. Will the license renew automatically?
+
 No. Interested users of the Basic plan will contact us via contact form or directly mail us.
 
 
