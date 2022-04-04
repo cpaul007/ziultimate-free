@@ -7,33 +7,33 @@ Below are listed the core competencies
 
 General Elements
 ----------------
-* Accordion Menu
+* Accordion Menu(pro)
 * Animated Burger
 * Animated Heading
 * Back To Top Button
 * Breadcrumbs
 * Contact Form 7 Styler
-* Dynamic Tabs
+* Dynamic Tabs(pro)
 * Fluent Form Styler
 * Gravity Form Styler
 * Highlighted Heading
 * Image Comparison
 * Image Mask
-* Image Scroller
+* Image Scroller(pro)
 * Infinite Scroll
 * Lightbox
-* Off Canvas
-* Piotnet Forms Styler
-* Read More/Less
+* Off Canvas(pro)
+* Piotnet Forms Styler(pro)
+* Read More/Less(pro)
 * Reading Time
 * Reading Progress Bar
-* Sliding Menu
+* Sliding Menu(pro)
 * Table Of Contents
-* Toggle Content
-* WPForms Styler
+* Toggle Content(pro)
+* WPForms Styler(pro)
 
 
-WooCommerce Elements
+WooCommerce Elements (pro)
 ----------------
 * Buy Now Button
 * Cart Counter
@@ -47,7 +47,7 @@ WooCommerce Elements
 * Tabs In Accordion
 
 
-WooCommerce Custom Repeater Providers
+WooCommerce Custom Repeater Providers (pro)
 ----------------
 * Best Selling Products
 * Extended Query Builder
@@ -66,7 +66,7 @@ Documentation and Support
 For documentation and tutorials visit our [site](https://ziultimate.com)
 
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
 = What are the minimum requirements for ZiUltimate? =
 This plugin requires Zion Builder to function correctly.
@@ -92,38 +92,31 @@ No. You can use it as long as you wish to. You will not get the support and upda
 = Will the license renew automatically? =
 No. Interested users of the Basic plan will contact us via contact form or directly mail us.
 
-== Screenshots ==
 
+## Changelog
 
-== Changelog ==
-
-= 1.4.13 - 2022-00-00 =
-* Improved: Breadcrumbs element. It is compatible with Blocksy theme now.
-* Improved: ACF Repeater. Now ACF repeater provider is compatible with ACF options page.
-* Fix: slider animation effect of Lightbox element
-
-= 1.4.12 - 2022-03-30 =
+### 1.4.12 - 2022-03-30
 * Improved: CSS and JS of Toggle Content
 * New Provider: Related Posts
 * New Condition: Browser -> Request URI
 * New Element: Breadcrumbs. Compatible with Yoast, RankMath, SEOPress, and NavXT plugins
 
-= 1.4.11 - 2022-03-26 =
+### 1.4.11 - 2022-03-26
 * Dynamic Tags: Loop Counter
 * New Element: Toggle Content
 
-= 1.4.10 - 2022-03-20 =
+### 1.4.10 - 2022-03-20
 * Condition Logic: Adds 10+ new custom condition logic
 * Fix: CSS
 * Repeater Provider: WooCommerce Related Products (only work on the single product page)
 * Edit: Dynamic Tabs element
 * Edit: Image Scrolling element
 
-= 1.4.9 - 2022-03-15 =
+### 1.4.9 - 2022-03-15
 * Removed: Theme Builder link from Admin Menu bar
 * Fix: Reveal effect is not working in Mini Cart element
 
-= 1.4.8 - 2022-03-14 =
+### 1.4.8 - 2022-03-14
 * Fix: Typo
 * Fix: JS error of Mini Cart element(for mobile)
 * Custom Conditions: Add 30 new custom conditions
@@ -132,11 +125,11 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 * New Element: Image Scroller
 * New Element: Sales Offer
 
-= 1.4.7 - 2021-12-03 =
+### 1.4.7 - 2021-12-03
 * New Repeater Provider: Extended Query Builder
 * Fix: JS error of Mini Cart element
 
-= 1.4.6 - 2021-11-24 =
+### 1.4.6 - 2021-11-24
 * Fix: Quantity field is showing when minicart element is disabled.
 * Fix: Animated Burger is not animating on the iOS device
 * Fix: PHP notices
@@ -144,12 +137,12 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 * Improve: Adds the dropdown functionality in the Animated Burger element. It would be good for the mobile accordion menu.
 * Improve: Off-Canvas element's CSS and JS codes
 
-= 1.4.5 - 2021-11-16 =
+### 1.4.5 - 2021-11-16
 * Improve: Admin Menu bar
 * Improve: Dynamic Tabs element is compatible with WooCommerce tabs
 * Hot Fix: CSS is messing up the dashboard UI.
 
-= 1.4.4 - 2021-11-13 =
+### 1.4.4 - 2021-11-13
 * Fix: PHP notices(generating when WPForms styler is enabled but WPForms plugin is not activated.)
 * New Elements: Buy Now button
 * Dynamic Content: Added three new dynamic contents: Term Title, Term Image URL, and Get Query String
@@ -157,14 +150,14 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 * Improve: ZiUltimate Admin UI
 * Add: Menu items on admin menu bar
 
-= 1.4.3 - 2021-11-09 =
+### 1.4.3 - 2021-11-09
 * Fix: CSS issue in Off-Canvas element
 * Add: Advanced Query Builder type for Zion Repeater
 
-= 1.4.2.1 - 2021-11-06 =
+### 1.4.2.1 - 2021-11-06
 * Quick patch for providers. Some fields of providers were not functioning properly.
 
-= 1.4.2 - 2021-11-06 =
+### 1.4.2 - 2021-11-06
 * Fix: The image Comparison element was not working due to a missing JS file.
 * Fix: Infinite Scroll element was not working due to a missing JS file.
 * Repeater Provider: Best Selling Products
@@ -173,12 +166,12 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 * Repeater Provider: Top Rated Products
 * Repeater Provider: Recently Viewed Products
 
-= 1.4.1 - 2021-11-01 =
+### 1.4.1 - 2021-11-01
 * New Element: Empty Cart Button
 * New Element: Continue Shopping Button
 * Fix: JS errors
 
-= 1.4.0 - 2021-10-29 =
+### 1.4.0 - 2021-10-29
 * New Element: Cart Counter
 * New Element: Dynamic Tabs
 * New Element: Mini Cart
@@ -188,17 +181,17 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 * Fix: Conditional fields of Fluent Forms were not showing on the builder editor
 * Fix: Nested elements of the off-canvas element are not showing properly on the builder editor
 
-= 1.3.3 - 2021-09-20 =
+### 1.3.3 - 2021-09-20
 * Fix: Fluent Forms were not showing in the dropdown of Fluent Form Styler.
 * Fix: Gravity Forms were not showing in the dropdown of Gravity Form Styler.
 
-= 1.3.2 - 2021-09-17 =
+### 1.3.2 - 2021-09-17
 * Fix: Title of ACF Repeater field type is not showing in Tabs In Accordion element.
 
-= 1.3.1 - 2021-09-16 =
+### 1.3.1 - 2021-09-16
 * Hot Fix: JS issues of some elements
 
-= 1.3.0 - 2021-09-16 =
+### 1.3.0 - 2021-09-16
 * Fix: Back To Top button is not showing on page load when the "Visible After Scroll" value is 0px.
 * New Element: Free Shipping Notice
 * New Element: Reviews Rating
@@ -207,7 +200,7 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 * New ELement: Highlighted Heading
 * Add white label option
 
-= 1.2.0 - 2021-08-25 =
+### 1.2.0 - 2021-08-25
 * New Element: Animated Heading
 * New Element: Back To Top Button
 * New Element: Infinite Scroll
@@ -215,12 +208,12 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 * New Element: WPForms Styler
 * Fix: PHP Warning
 
-= 1.1.0 - 2021-08-07 =
+### 1.1.0 - 2021-08-07
 * Fixed transition duration slug of Accordion Menu element
 * Improvement: Add push body content feature in Off-Canvas element
 * Improvement: Add position option for Before/After text in Image Comparison element
 * Improvement: Add transition duration option for hover in Image Comparison element
 * New Element: Published new element "Sliding Menu"
 
-= 1.0.0 - 2021-07-31 =
+### 1.0.0 - 2021-07-31
 * Initial Public Release
