@@ -1,0 +1,26 @@
+.zu-reading-progress-bar {
+    height: 5px;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    z-index: 999999;
+}
+
+.zu-reading-progress-bar-top {
+    top: 0;
+}
+
+.zu-reading-progress-bar-bottom {
+    top: auto;
+    bottom: 0;
+}
+
+.zu-reading-progress-bar-fill {
+    background-color: #fc5611;
+    height: 5px;
+    position: fixed;
+    width: 0%;
+    -webkit-transition: width 50ms ease;
+    -o-transition: width 50ms ease;
+    transition: width 50ms ease;
+}

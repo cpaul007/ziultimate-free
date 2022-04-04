@@ -1,0 +1,26 @@
+.zb-el-zuBackToTop {
+    width: auto;
+}
+body:not(.znpb-editor-preview) .zb-el-zuBackToTop {
+    cursor: pointer;
+}
+body:not(.znpb-editor-preview) .zb-el-zuBackToTop.backtotop {
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 10;
+    opacity: 0;
+    visibility: hidden;
+    transition-property: all;
+    transition-duration: 0.3s;
+    animation-timing-function: ease-in-out;
+}
+body:not(.znpb-editor-preview) .backtotop.backtotop-visible {
+    opacity: 1;
+    visibility: visible;
+}
+html {
+    scroll-behavior: inherit !important;
+}

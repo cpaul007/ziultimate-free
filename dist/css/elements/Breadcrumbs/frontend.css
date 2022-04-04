@@ -1,0 +1,22 @@
+.zb-el-zuBreadcrumbs {
+	padding: 15px 0;
+}
+
+.zb-el-zuBreadcrumbs p {
+	margin-bottom: 0;
+}
+
+.zb-el-zuBreadcrumbs .breadcrumb > li+li:before {
+	display: none;
+}
+
+.zb-el-zuBreadcrumbs .separator {
+	display: inline-block;
+    line-height: 1;
+	margin: 0 5px;
+}
+
+.zb-el-zuBreadcrumbs ol.breadcrumb {
+	display: inline-block;
+	padding: 0 0 0 10px;
+}

@@ -1,0 +1,21 @@
+.zu-lightbox--open {
+	position:fixed!important;
+	top: 0;
+}
+.znpb-element__wrapper--is-disabled .zb-el-zuLightbox,
+.znpb-element__wrapper--is-disabled .zb-el-zuLightbox.zu-lightbox--open {
+	display:none!important;
+}
+.zu-lightbox--close .zu-lightbox-container,
+.znpb-element__wrapper--is-disabled .zb-el-zuLightbox {
+	opacity: 0;
+	visibility: hidden;
+	position: fixed; 
+	top: 0; 
+	z-index: -100;
+}
+
+.zu-lightbox--close.zu-lightbox-builder {
+	background: transparent!important;
+	background-color: transparent!important;
+}

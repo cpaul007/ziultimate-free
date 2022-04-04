@@ -1,0 +1,65 @@
+body:not(.znpb-editor-preview) .zb-el-zuToc .zu-toc-container{overflow-y:auto}
+.zu-toc-container > .zutoc-list{overflow:hidden;position:relative}
+.zu-toc-container > .zutoc-list li{list-style:none; margin-bottom: 0}
+.zutoc-list li li {padding-left: 15px;}
+.zutoc-list{margin:0;padding:0}
+.zu-toc-container > .zutoc-list{ padding-right:15px }
+.zutoc-list{ counter-reset: zutoc_default }
+.zutoc-list .zutoc-list{ counter-reset: zutoc_lvl2 }
+.zutoc-list .zutoc-list .zutoc-list{ counter-reset: zutoc_lvl3 }
+.zutoc-list .zutoc-list .zutoc-list .zutoc-list{ counter-reset: zutoc_lvl4 }
+.zutoc-list .toc-list-item{ counter-increment: zutoc_default; }
+.zutoc-list .zutoc-list .toc-list-item{ counter-increment: zutoc_lvl2; }
+.zutoc-list .zutoc-list .zutoc-list .toc-list-item{ counter-increment: zutoc_lvl3; }
+.zutoc-list .zutoc-list .zutoc-list .zutoc-list .toc-list-item{ counter-increment: zutoc_lvl4; }
+a.toc-link{color:currentColor;height:100%}
+.is-collapsible{max-height:1000px;overflow:hidden;transition:all 300ms ease-in-out}
+.is-collapsed{max-height:0}
+.is-position-fixed{position:fixed !important;top:0}
+.is-active-link{font-weight:700}
+.zu-toc-vertical-line .toc-link::after{background-color:#EEE;content:' ';display:inline-block;height:inherit;right:0;margin-top:-1px;position:absolute;width:2px}
+.zu-toc-vertical-line .is-active-link::after{background-color:#54BC4B;}
+
+.zb-el-zuToc { 
+	--zutoc-list-type: 'none'; 
+	--zutoc-lvl2-list-type: 'decimal'; 
+	--zutoc-lvl3-list-type: 'decimal';
+	--zutoc-lvl4-list-type: 'decimal';
+
+	--parent-list-type-sep: '.';
+	--list-type-sep: '.';
+}
+
+.zu-toc-list-type-counter .zutoc-list .toc-link::before {display: inline;}
+.zu-toc-list-type-counter .zutoc-list .toc-link::before {
+	content: counter( zutoc_default, var(--zutoc-list-type)) '' var(--list-type-sep) ' ';
+}
+
+.zu-toc-list-type-counter:not(.zu-toc-parent-sep) .zutoc-list .zutoc-list .toc-link::before {
+	content: counter( zutoc_lvl2, var(--zutoc-lvl2-list-type)) '' var(--list-type-sep) ' ';
+}
+
+.zu-toc-list-type-counter:not(.zu-toc-parent-sep) .zutoc-list .zutoc-list .zutoc-list .toc-link::before {
+	content: counter( zutoc_lvl3, var(--zutoc-lvl3-list-type)) '' var(--list-type-sep) ' ';
+}
+
+.zu-toc-list-type-counter:not(.zu-toc-parent-sep) .zutoc-list .zutoc-list .zutoc-list .zutoc-list .toc-link::before {
+	content: counter( zutoc_lvl4, var(--zutoc-lvl4-list-type)) '' var(--list-type-sep) ' ';
+}
+
+.zu-toc-list-type-counter.zu-toc-parent-sep .zutoc-list .zutoc-list .toc-link::before {
+	content: counter( zutoc_default, var(--zutoc-list-type)) '' var(--parent-list-type-sep) '' counter( zutoc_lvl2, var(--zutoc-lvl2-list-type)) '' var(--list-type-sep) ' ';
+}
+
+.zu-toc-list-type-counter.zu-toc-parent-sep .zutoc-list .zutoc-list .zutoc-list .toc-link::before {
+	content: counter( zutoc_default, var(--zutoc-list-type)) '' var(--parent-list-type-sep) '' counter( zutoc_lvl2, var(--zutoc-lvl2-list-type)) '' var(--parent-list-type-sep) '' counter( zutoc_lvl3, var(--zutoc-lvl3-list-type)) '' var(--list-type-sep) ' ';
+}
+
+.zu-toc-list-type-counter.zu-toc-parent-sep .zutoc-list .zutoc-list .zutoc-list .zutoc-list .toc-link::before {
+	content: counter( zutoc_default, var(--zutoc-list-type)) '' var(--parent-list-type-sep) '' counter( zutoc_lvl2, var(--zutoc-lvl2-list-type)) '' var(--parent-list-type-sep) '' counter( zutoc_lvl3, var(--zutoc-lvl3-list-type)) '' var(--parent-list-type-sep) '' counter( zutoc_lvl4, var(--zutoc-lvl4-list-type)) '' var(--list-type-sep) ' ';
+}
+
+.zu-toc-list-type-icon li span.list-icon {
+	margin-right: 8px;
+	font-size: 12px;
+}

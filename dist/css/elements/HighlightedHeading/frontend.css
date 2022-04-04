@@ -1,0 +1,204 @@
+.zb-el-zuHighlightedHeading .highlighted-text-wrapper {
+  display: inline-block;
+  position: relative;
+  overflow: visible;
+}
+
+.zb-el-zuHighlightedHeading .highlighted-text,
+.zb-el-zuHighlightedHeading .headline-text {
+  z-index: 1;
+  position: relative;
+}
+
+.zb-el-zuHighlightedHeading .headline-text {
+  display: inline-block;
+  white-space: nowrap;
+  top: 0;
+  left: 0;
+}
+
+.zb-el-zuHighlightedHeading .highlighted-text-wrapper svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: calc( 100% + 20px);
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  overflow: visible;
+}
+
+.zb-el-zuHighlightedHeading .highlighted-text-wrapper svg.circle {
+  width: calc( 100% + 20px);
+}
+
+.zb-el-zuHighlightedHeading .highlighted-text-wrapper svg path {
+  stroke: red;
+  stroke-width: 9;
+  fill: none;
+  stroke-dasharray: 1500;
+  -webkit-animation: zuhlh-headline-dash-no-loop 10s ease;
+  animation: zuhlh-headline-dash-no-loop 10s ease;
+}
+
+.zb-el-zuHighlightedHeading .zuhlh-headline-loop .highlighted-text-wrapper svg path {
+  -webkit-animation: zuhlh-headline-dash 10s infinite;
+  animation: zuhlh-headline-dash 10s infinite;
+}
+
+.zb-el-zuHighlightedHeading .highlighted-text-wrapper svg path:nth-of-type(2) {
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
+
+@-webkit-keyframes zuhlh-headline-dash {
+  0% {
+    stroke-dasharray: 0 1500;
+  }
+  15% {
+    stroke-dasharray: 1500 1500;
+  }
+  85% {
+    opacity: 1;
+  }
+  90% {
+    stroke-dasharray: 1500 1500;
+    opacity: 0;
+  }
+  100% {
+    stroke-dasharray: 0 1500;
+    opacity: 0;
+  }
+}
+
+@keyframes zuhlh-headline-dash {
+  0% {
+    stroke-dasharray: 0 1500;
+  }
+  15% {
+    stroke-dasharray: 1500 1500;
+  }
+  85% {
+    opacity: 1;
+  }
+  90% {
+    stroke-dasharray: 1500 1500;
+    opacity: 0;
+  }
+  100% {
+    stroke-dasharray: 0 1500;
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes zuhlh-headline-dash-no-loop {
+  0% {
+    stroke-dasharray: 0 1500;
+  }
+  15% {
+    stroke-dasharray: 1500 1500;
+  }
+  85% {
+    opacity: 1;
+  }
+  90% {
+    stroke-dasharray: 1500 1500;
+    opacity: 1;
+  }
+  100% {
+    stroke-dasharray: 1500 1500;
+    opacity: 1;
+  }
+}
+
+@keyframes zuhlh-headline-dash-no-loop {
+  0% {
+    stroke-dasharray: 0 1500;
+  }
+  15% {
+    stroke-dasharray: 1500 1500;
+  }
+  85% {
+    opacity: 1;
+  }
+  90% {
+    stroke-dasharray: 1500 1500;
+    opacity: 1;
+  }
+  100% {
+    stroke-dasharray: 1500 1500;
+    opacity: 1;
+  }
+}
+
+.highlighted-text.ul-anim {
+  transition: all 0.2s ease-in-out;
+}
+
+.highlighted-text-wrapper .ul-anim:before,
+.highlighted-text-wrapper .ul-anim:after{
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  height: 5px;
+  margin: 5px 0 0;
+  transition: all 0.2s ease-in-out;
+  transition-duration: 0.75s;
+  
+  background-color: #e69500;
+  z-index: -1;
+}
+
+.onhover.ul-anim:before,
+.onhover.ul-anim:after,
+.highlighted-text-wrapper:hover .offhover.ul-anim:before,
+.highlighted-text-wrapper:hover .offhover.ul-anim:after {
+  width: 0px;
+  opacity: 0;
+}
+
+.highlighted-text-wrapper .ul-anim.underline_lr:before,
+.highlighted-text-wrapper .ul-anim.underline_lr:after {
+  left: 0;
+}
+
+.highlighted-text-wrapper .ul-anim.underline_rl:before,
+.highlighted-text-wrapper .ul-anim.underline_rl:after {
+  right: 0;
+}
+
+.highlighted-text-wrapper .ul-anim.underline_outwards:before {
+  left: 50%;
+}
+
+.highlighted-text-wrapper .ul-anim.underline_outwards:after {
+  right: 50%;
+}
+
+.highlighted-text-wrapper .ul-anim.underline_inwards:before {
+  left: 0;
+}
+
+.highlighted-text-wrapper .ul-anim.underline_inwards:after {
+  right: 0;
+}
+
+.highlighted-text-wrapper:hover .onhover.ul-anim:before,
+.highlighted-text-wrapper:hover .onhover.ul-anim:after,
+.offhover.ul-anim:before,
+.offhover.ul-anim:after {
+  width: 100%;
+  opacity: 1;
+}
+
+.highlighted-text-wrapper:hover .onhover.ul-anim.underline_outwards:before,
+.highlighted-text-wrapper:hover .onhover.ul-anim.underline_outwards:after,
+.highlighted-text-wrapper:hover .onhover.ul-anim.underline_inwards:before,
+.highlighted-text-wrapper:hover .onhover.ul-anim.underline_inwards:after,
+.offhover.ul-anim.underline_outwards:before,
+.offhover.ul-anim.underline_outwards:after,
+.offhover.ul-anim.underline_inwards:before,
+.offhover.ul-anim.underline_inwards:after {
+  width: 50%;
+}
