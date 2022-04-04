@@ -1,4 +1,4 @@
-**ZiUltimate** is a third party add-on for ZionBuilder.
+**ZiUltimate(https://ziultimate.com/)** is a third party add-on for ZionBuilder.
 
 Built by [Paul Chinmoy](https://paulchinmoy.com), the creator of famous Oxygen Plugin [OxyUltimate](https://oxyultimate.com/), this plugin brings in addition to its free version, tools which are meant to help users build their WordPress websites in no-time.
 
