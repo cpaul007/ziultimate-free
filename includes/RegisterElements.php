@@ -59,11 +59,6 @@ class RegisterElements {
 				'class' => 'AnimatedHeading\AnimatedHeading',
 				'link' 	=> $link . '/animated-heading/'
 			],
-			'acrdmenu' => [
-				'name' 	=> __('Accordion Menu', 'ziultimate'),
-				'class' => 'AccordionMenu\AccordionMenu',
-				'link' 	=> $link . '/accordion-menu/'
-			],
 			'backtotop' => [
 				'name' 	=> __('Back To Top', 'ziultimate'),
 				'class' => 'BackToTop\BackToTop',
