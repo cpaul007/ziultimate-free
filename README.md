@@ -57,6 +57,7 @@ Repeater Providers (pro)
 * Related Posts
 * Related Products
 * Ultimate Query Builder
+* WooCommerce Reviews Builder
 
 
 # Activate Plugin with License Key
