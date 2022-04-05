@@ -46,7 +46,7 @@ WooCommerce Elements (pro)
 * Tabs In Accordion
 
 
-WooCommerce Custom Repeater Providers (pro)
+Repeater Providers (pro)
 ----------------
 * Best Selling Products
 * Extended Query Builder
