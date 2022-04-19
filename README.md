@@ -107,6 +107,12 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 
 ## Changelog
 
+### 1.4.13 - 2022-04-06
+* Improved: Breadcrumbs element. It is compatible with the Blocksy theme now.
+* Improved: ACF Repeater. Now ACF repeater provider is compatible with the ACF options page.
+* New Provider: WooCommerce Reviews Builder. It will only work with Reviews elements which will activate from the ZiUltimate -> WooElements tab.
+* Fix: slider animation effect of Lightbox element
+
 ### 1.4.12 - 2022-03-30
 * Improved: CSS and JS of Toggle Content
 * New Provider: Related Posts
