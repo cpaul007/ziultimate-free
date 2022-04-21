@@ -57,6 +57,7 @@ Repeater Providers (pro)
 * Recently Viewed Products
 * Related Posts
 * Related Products
+* Terms Query Builder
 * Ultimate Query Builder
 * WooCommerce Reviews Builder
 
