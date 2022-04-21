@@ -29,6 +29,7 @@ General Elements
 * Sliding Menu **(pro)**
 * Table Of Contents
 * Toggle Content **(pro)**
+* Ultimate Tabs **(pro)**
 * WPForms Styler **(pro)**
 
 
@@ -106,6 +107,13 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 
 
 ## Changelog
+
+### 1.5 - 2022-04-21
+* New Provider: Terms Query Builder
+* New Element: Ultimate Tabs. Tabs are converting to accordion on mobile devices.
+* New Dynamic Content: Parent Post/Page/CPT Title
+* New Dynamic Content: X amount terms. You can set the limit and that amount terms will show in the list. It is very useful for a magazine layout.
+* New option for Repeater consumer: You can display the custom content or Adsense after the nth post. You will adjust the design with custom CSS. Preview will not show on the builder editor.
 
 ### 1.4.13 - 2022-04-06
 * Improved: Breadcrumbs element. It is compatible with the Blocksy theme now.
