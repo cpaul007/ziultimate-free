@@ -2,8 +2,8 @@
 Contributors: ziultimate
 Tags: page builder, editor, visual editor, design, website builder, front-end builder
 Requires at least: 5.0.0
-Tested up to: 5.9.2
-Stable tag: 1.4.13
+Tested up to: 5.9.3
+Stable tag: 1.5
 Requires PHP: 7.4
 
 ZiUltimate is a third party add-on for ZionBuilder.
@@ -38,6 +38,7 @@ General Elements
 * Sliding Menu
 * Table Of Contents
 * Toggle Content
+* Ultimate Tabs
 * WPForms Styler
 
 
@@ -55,7 +56,7 @@ WooCommerce Elements
 * Tabs In Accordion
 
 
-WooCommerce Custom Repeater Providers
+Repeater Providers
 ----------------
 * Best Selling Products
 * Extended Query Builder
@@ -66,6 +67,7 @@ WooCommerce Custom Repeater Providers
 * Related Posts
 * Related Products
 * Ultimate Query Builder
+* WooCommerce Reviews Builder
 
 
 
@@ -105,9 +107,17 @@ No. Interested users of the Basic plan will contact us via contact form or direc
 
 == Changelog ==
 
-= 1.4.13 - 2022-00-00 =
-* Improved: Breadcrumbs element. It is compatible with Blocksy theme now.
-* Improved: ACF Repeater. Now ACF repeater provider is compatible with ACF options page.
+= 1.5 - 2022-04-21 =
+* New Provider: Terms Query Builder
+* New Element: Ultimate Tabs. Tabs are converting to accordion on mobile devices.
+* New Dynamic Content: Parent Post/Page/CPT Title
+* New Dynamic Content: X amount terms. You can set the limit and that amount terms will show in the list. It is very useful for a magazine layout.
+* New option for Repeater consumer: You can display the custom content or Adsense after the nth post. You will adjust the design with custom CSS. Preview will not show on the builder editor.
+
+= 1.4.13 - 2022-04-06 =
+* Improved: Breadcrumbs element. It is compatible with the Blocksy theme now.
+* Improved: ACF Repeater. Now ACF repeater provider is compatible with the ACF options page.
+* New Provider: WooCommerce Reviews Builder. It will only work with Reviews elements which will activate from the ZiUltimate -> WooElements tab.
 * Fix: slider animation effect of Lightbox element
 
 = 1.4.12 - 2022-03-30 =
